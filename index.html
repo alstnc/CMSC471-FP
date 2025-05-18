@@ -1,16 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <title>CMSC471: Final Project</title>
-    <link rel="stylesheet" href="css/styles.css" />
-  </head>
-  <body>
-    <div class="container">
-      <h1>Soundwaves: A Visual History of Musical Trends</h1>
+
+<head>
+  <meta charset="UTF-8" />
+  <title>CMSC471: Final Project</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+
+<body>
+
+  <header class="main-header">
+    <h1>Soundwaves: A Visual History of Musical Trends</h1>
+  </header>
+
+  <div class="main-content-area">
+    <div id="sidebar">
+      <div>
+        <label for="nodeCountSlider">Number of Genres:</label>
+        <input type="range" id="nodeCountSlider" name="nodeCountSlider" min="1" value="30">
+        <span id="nodeCountValue">30</span>
       </div>
     </div>
-    <script src="https://d3js.org/d3.v7.min.js"></script>
-    <script src="js/script.js"></script>
-  </body>
+
+    <div id="vis-container">
+      <div id="force_graph"></div>
+      <div id="tooltip" style="opacity:0;"></div>
+    </div>
+  </div>
+
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="js/genre_force_graph.js"></script>
+</body>
+
 </html>
