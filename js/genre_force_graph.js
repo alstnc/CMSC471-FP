@@ -372,6 +372,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   function renderGraph(numNodes) {
+    graphContainer.innerHTML = ""; // clear the container before rendering
     const graphData = prepareGraphData(numNodes);
     let dynamicNodeRadius = baseNodeRadius;
     let dynamicFontSize = baseLabelFontSize;
@@ -467,5 +468,5 @@ document.addEventListener("DOMContentLoaded", () => {
           renderGraph(currentCount);
         }, 250);
       });
-    })
+    });
 });
