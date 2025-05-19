@@ -1,0 +1,1741 @@
+{
+    "nodes_bfs_order": [
+        "pop",
+        "rap",
+        "rock",
+        "urbano latino",
+        "musica mexicana",
+        "filmi",
+        "classic rock",
+        "alternative metal",
+        "trap latino",
+        "reggaeton",
+        "hip hop",
+        "latin pop",
+        "corrido",
+        "soft rock",
+        "album rock",
+        "permanent wave",
+        "modern rock",
+        "pov: indie",
+        "dance pop",
+        "nueva musica mexicana",
+        "trap",
+        "norteno",
+        "contemporary country",
+        "mellow gold",
+        "canadian pop",
+        "hard rock",
+        "pop rap",
+        "sad sierreno",
+        "sierreno",
+        "country road",
+        "singer-songwriter",
+        "country",
+        "art pop",
+        "uk pop",
+        "nu metal",
+        "melodic rap",
+        "banda",
+        "corridos tumbados",
+        "alternative rock",
+        "post-grunge",
+        "new wave pop",
+        "modern bollywood",
+        "ranchera",
+        "desi pop",
+        "atl hip hop",
+        "southern hip hop",
+        "sertanejo universitario",
+        "alt z",
+        "arrocha",
+        "french hip hop",
+        "pop urbaine",
+        "pop punk",
+        "j-pop",
+        "indietronica",
+        "rock en espanol",
+        "soul",
+        "sertanejo",
+        "folk rock",
+        "urban contemporary",
+        "reggaeton colombiano",
+        "colombian pop",
+        "pop rock",
+        "rap metal",
+        "modern alternative rock",
+        "latin alternative",
+        "k-pop boy group",
+        "mexican pop",
+        "heartland rock",
+        "bedroom pop",
+        "agronejo",
+        "indie pop",
+        "indonesian pop",
+        "gangster rap",
+        "k-pop girl group",
+        "chicago rap",
+        "new wave",
+        "metal",
+        "indie rock",
+        "electropop",
+        "latin arena pop",
+        "electro house",
+        "latin rock",
+        "uk dance",
+        "neo mellow",
+        "cloud rap",
+        "turkish pop",
+        "conscious hip hop",
+        "canadian hip hop",
+        "latin hip hop",
+        "stomp and holler",
+        "modern country pop",
+        "german hip hop",
+        "new romantic",
+        "glam metal",
+        "punk",
+        "glam rock",
+        "italian pop",
+        "house",
+        "slap house",
+        "neo soul",
+        "hoerspiel",
+        "viral pop",
+        "spanish pop",
+        "toronto rap",
+        "trap argentino",
+        "piano rock",
+        "country rock",
+        "trap brasileiro",
+        "post-teen pop",
+        "boy band",
+        "synthpop",
+        "garage rock",
+        "ccm",
+        "argentine rock",
+        "progressive electro house",
+        "adult standards",
+        "folk",
+        "italian adult pop",
+        "mpb",
+        "italian hip hop",
+        "east coast hip hop",
+        "west coast rap",
+        "psychedelic rock",
+        "opm",
+        "afrobeats",
+        "punjabi pop",
+        "miami hip hop",
+        "talent show",
+        "progressive house",
+        "swedish pop",
+        "anime",
+        "metropopolis",
+        "art rock",
+        "modern country rock",
+        "big room",
+        "indie folk",
+        "classical",
+        "vocal jazz",
+        "yacht rock",
+        "nigerian pop",
+        "puerto rican pop",
+        "underground hip hop",
+        "rage rap",
+        "europop",
+        "german pop",
+        "j-rock",
+        "christian music",
+        "metalcore",
+        "chamber pop",
+        "sleep",
+        "brostep",
+        "tropical house",
+        "folk-pop",
+        "blues rock",
+        "mariachi",
+        "bolero",
+        "gen z singer-songwriter",
+        "rap francais",
+        "desi hip hop",
+        "tropical",
+        "dark trap",
+        "sped up",
+        "emo rap",
+        "funk metal",
+        "grunge",
+        "melodic metalcore",
+        "turkish rock",
+        "melancholia",
+        "soundtrack",
+        "dance rock",
+        "mexican rock",
+        "drift phonk",
+        "hip pop",
+        "british invasion",
+        "rock-and-roll",
+        "outlaw country",
+        "classic soul",
+        "detroit hip hop",
+        "argentine hip hop",
+        "grupera",
+        "indie soul",
+        "pluggnb",
+        "british soul",
+        "christian alternative rock",
+        "worship",
+        "emo",
+        "beatlesque",
+        "brazilian gospel",
+        "progressive rock",
+        "orchestral soundtrack",
+        "rain",
+        "white noise",
+        "indie poptimism",
+        "electronica",
+        "memphis hip hop",
+        "alternative hip hop",
+        "mexican hip hop",
+        "cantautor",
+        "chanson",
+        "motown",
+        "urbano espanol",
+        "trap triste",
+        "disco",
+        "uk hip hop",
+        "trap boricua",
+        "polish hip hop",
+        "dream pop",
+        "neon pop punk",
+        "britpop",
+        "mandopop",
+        "french pop",
+        "thrash metal",
+        "old school thrash",
+        "australian pop",
+        "pixel",
+        "downtempo",
+        "trance",
+        "funk carioca",
+        "reggaeton flow",
+        "dirty south rap",
+        "classic oklahoma country",
+        "movie tunes",
+        "indian instrumental",
+        "quiet storm",
+        "pagode novo",
+        "funk",
+        "salsa",
+        "dfw rap",
+        "sheffield indie",
+        "symphonic rock",
+        "anime rock",
+        "industrial metal",
+        "pop soul",
+        "baroque pop",
+        "japanese teen pop",
+        "brazilian rock",
+        "neo-synthpop",
+        "dutch house",
+        "pop reggaeton",
+        "trap italiana",
+        "classic texas country",
+        "pagode",
+        "gruperas inmortales",
+        "sertanejo pop",
+        "pop nacional",
+        "rap conscient",
+        "hardcore hip hop",
+        "g funk",
+        "modern blues rock",
+        "southern rock",
+        "candy pop",
+        "australian rock",
+        "lilith",
+        "funk rock",
+        "barbadian pop",
+        "australian dance",
+        "latin christian",
+        "gym phonk",
+        "dutch edm",
+        "country dawn",
+        "spanish hip hop",
+        "brazilian hip hop",
+        "dancehall",
+        "pop argentino",
+        "tamil pop",
+        "latin viral pop",
+        "queens hip hop",
+        "trap queen",
+        "bachata",
+        "rap rock",
+        "sophisti-pop",
+        "eurodance",
+        "new orleans rap",
+        "cali rap",
+        "escape room",
+        "girl group",
+        "reggae fusion",
+        "florida rap",
+        "pop venezolano",
+        "funk mtg",
+        "brooklyn drill",
+        "north carolina hip hop",
+        "chicago drill",
+        "urbano chileno",
+        "russian hip hop",
+        "plugg",
+        "turkish trap",
+        "polish trap",
+        "punjabi hip hop",
+        "k-rap",
+        "turkish hip hop",
+        "funk rj",
+        "atl trap",
+        "dutch hip hop",
+        "drill",
+        "pittsburgh rap",
+        "reggae"
+    ],
+    "adjacency_list": {
+        "pop": [
+            "rap",
+            "rock",
+            "urbano latino"
+        ],
+        "rap": [
+            "rock",
+            "musica mexicana",
+            "filmi"
+        ],
+        "rock": [
+            "classic rock",
+            "filmi",
+            "alternative metal"
+        ],
+        "urbano latino": [
+            "trap latino",
+            "reggaeton",
+            "hip hop"
+        ],
+        "musica mexicana": [
+            "latin pop",
+            "filmi",
+            "corrido"
+        ],
+        "filmi": [
+            "soft rock",
+            "album rock",
+            "permanent wave"
+        ],
+        "classic rock": [
+            "modern rock",
+            "permanent wave",
+            "alternative metal"
+        ],
+        "alternative metal": [
+            "permanent wave",
+            "pov: indie",
+            "modern rock"
+        ],
+        "trap latino": [
+            "reggaeton",
+            "dance pop",
+            "latin pop"
+        ],
+        "reggaeton": [
+            "dance pop",
+            "latin pop",
+            "musica mexicana"
+        ],
+        "hip hop": [
+            "reggaeton",
+            "trap latino",
+            "dance pop"
+        ],
+        "dance pop": [
+            "latin pop",
+            "trap",
+            "corrido"
+        ],
+        "latin pop": [
+            "pov: indie",
+            "nueva musica mexicana",
+            "permanent wave"
+        ],
+        "modern rock": [
+            "pov: indie",
+            "permanent wave",
+            "soft rock"
+        ],
+        "permanent wave": [
+            "album rock",
+            "soft rock",
+            "contemporary country"
+        ],
+        "corrido": [
+            "nueva musica mexicana",
+            "trap",
+            "norteno"
+        ],
+        "pov: indie": [
+            "permanent wave",
+            "album rock",
+            "soft rock"
+        ],
+        "soft rock": [
+            "contemporary country",
+            "mellow gold",
+            "canadian pop"
+        ],
+        "album rock": [
+            "contemporary country",
+            "soft rock",
+            "hard rock"
+        ],
+        "trap": [
+            "nueva musica mexicana",
+            "pop rap",
+            "norteno"
+        ],
+        "nueva musica mexicana": [
+            "norteno",
+            "pop rap",
+            "sad sierreno"
+        ],
+        "contemporary country": [
+            "hard rock",
+            "canadian pop",
+            "country road"
+        ],
+        "norteno": [
+            "sierreno",
+            "sad sierreno",
+            "pop rap"
+        ],
+        "hard rock": [
+            "nu metal",
+            "mellow gold",
+            "canadian pop"
+        ],
+        "mellow gold": [
+            "singer-songwriter",
+            "country",
+            "art pop"
+        ],
+        "canadian pop": [
+            "mellow gold",
+            "uk pop",
+            "country road"
+        ],
+        "pop rap": [
+            "melodic rap",
+            "sierreno",
+            "sad sierreno"
+        ],
+        "sad sierreno": [
+            "banda",
+            "corridos tumbados",
+            "melodic rap"
+        ],
+        "country road": [
+            "alternative rock",
+            "post-grunge",
+            "new wave pop"
+        ],
+        "sierreno": [
+            "sad sierreno",
+            "banda",
+            "corridos tumbados"
+        ],
+        "nu metal": [
+            "post-grunge",
+            "alternative rock",
+            "art pop"
+        ],
+        "uk pop": [
+            "country road",
+            "modern bollywood",
+            "country"
+        ],
+        "singer-songwriter": [
+            "country road",
+            "alternative rock",
+            "modern bollywood"
+        ],
+        "country": [
+            "singer-songwriter",
+            "modern bollywood",
+            "ranchera"
+        ],
+        "art pop": [
+            "country road",
+            "alternative rock",
+            "post-grunge"
+        ],
+        "melodic rap": [
+            "desi pop",
+            "atl hip hop",
+            "southern hip hop"
+        ],
+        "banda": [
+            "corridos tumbados",
+            "sertanejo universitario",
+            "alt z"
+        ],
+        "corridos tumbados": [
+            "arrocha",
+            "french hip hop",
+            "pop urbaine"
+        ],
+        "modern bollywood": [
+            "alt z",
+            "sertanejo universitario",
+            "banda"
+        ],
+        "post-grunge": [
+            "alternative rock",
+            "j-pop",
+            "pop punk"
+        ],
+        "alternative rock": [
+            "pop punk",
+            "j-pop",
+            "indietronica"
+        ],
+        "ranchera": [
+            "soul",
+            "sertanejo",
+            "folk rock"
+        ],
+        "new wave pop": [
+            "indietronica",
+            "j-pop",
+            "rock en espanol"
+        ],
+        "desi pop": [
+            "alt z",
+            "sertanejo universitario",
+            "urban contemporary"
+        ],
+        "atl hip hop": [
+            "southern hip hop",
+            "reggaeton colombiano",
+            "colombian pop"
+        ],
+        "southern hip hop": [
+            "reggaeton colombiano",
+            "colombian pop",
+            "urban contemporary"
+        ],
+        "j-pop": [
+            "pop rock",
+            "modern alternative rock",
+            "rap metal"
+        ],
+        "pop punk": [
+            "j-pop",
+            "pop rock",
+            "rap metal"
+        ],
+        "alt z": [
+            "urban contemporary",
+            "sertanejo",
+            "arrocha"
+        ],
+        "sertanejo universitario": [
+            "alt z",
+            "arrocha",
+            "sertanejo"
+        ],
+        "indietronica": [
+            "j-pop",
+            "pop punk",
+            "rock en espanol"
+        ],
+        "arrocha": [
+            "colombian pop",
+            "pop urbaine",
+            "reggaeton colombiano"
+        ],
+        "french hip hop": [
+            "pop urbaine",
+            "southern hip hop",
+            "colombian pop"
+        ],
+        "pop urbaine": [
+            "reggaeton colombiano",
+            "southern hip hop",
+            "colombian pop"
+        ],
+        "rock en espanol": [
+            "latin alternative",
+            "k-pop boy group",
+            "mexican pop"
+        ],
+        "soul": [
+            "folk rock",
+            "heartland rock",
+            "bedroom pop"
+        ],
+        "sertanejo": [
+            "agronejo",
+            "urban contemporary",
+            "colombian pop"
+        ],
+        "folk rock": [
+            "indie pop",
+            "bedroom pop",
+            "indonesian pop"
+        ],
+        "urban contemporary": [
+            "reggaeton colombiano",
+            "gangster rap",
+            "mexican pop"
+        ],
+        "reggaeton colombiano": [
+            "gangster rap",
+            "k-pop girl group",
+            "chicago rap"
+        ],
+        "colombian pop": [
+            "reggaeton colombiano",
+            "urban contemporary",
+            "gangster rap"
+        ],
+        "agronejo": [
+            "conscious hip hop",
+            "canadian hip hop",
+            "latin hip hop"
+        ],
+        "pop rock": [
+            "modern alternative rock",
+            "rap metal",
+            "new wave"
+        ],
+        "rap metal": [
+            "modern alternative rock",
+            "new wave",
+            "metal"
+        ],
+        "modern alternative rock": [
+            "new wave",
+            "indie rock",
+            "metal"
+        ],
+        "latin alternative": [
+            "electropop",
+            "k-pop boy group",
+            "latin arena pop"
+        ],
+        "k-pop boy group": [
+            "electro house",
+            "latin rock",
+            "uk dance"
+        ],
+        "mexican pop": [
+            "latin alternative",
+            "k-pop girl group",
+            "gangster rap"
+        ],
+        "heartland rock": [
+            "neo mellow",
+            "pop rock",
+            "indie rock"
+        ],
+        "bedroom pop": [
+            "indie pop",
+            "cloud rap",
+            "turkish pop"
+        ],
+        "indie pop": [
+            "indie rock",
+            "stomp and holler",
+            "modern country pop"
+        ],
+        "indonesian pop": [
+            "indie pop",
+            "bedroom pop",
+            "indie rock"
+        ],
+        "gangster rap": [
+            "chicago rap",
+            "german hip hop",
+            "k-pop girl group"
+        ],
+        "k-pop girl group": [
+            "chicago rap",
+            "uk dance",
+            "latin hip hop"
+        ],
+        "chicago rap": [
+            "german hip hop",
+            "canadian hip hop",
+            "conscious hip hop"
+        ],
+        "electropop": [
+            "italian pop",
+            "uk dance",
+            "canadian hip hop"
+        ],
+        "latin arena pop": [
+            "latin rock",
+            "italian pop",
+            "electropop"
+        ],
+        "electro house": [
+            "uk dance",
+            "house",
+            "slap house"
+        ],
+        "latin rock": [
+            "new wave",
+            "new romantic",
+            "italian pop"
+        ],
+        "uk dance": [
+            "house",
+            "slap house",
+            "italian pop"
+        ],
+        "neo mellow": [
+            "indie rock",
+            "metal",
+            "latin arena pop"
+        ],
+        "indie rock": [
+            "metal",
+            "glam metal",
+            "glam rock"
+        ],
+        "conscious hip hop": [
+            "toronto rap",
+            "german hip hop",
+            "trap argentino"
+        ],
+        "canadian hip hop": [
+            "conscious hip hop",
+            "toronto rap",
+            "german hip hop"
+        ],
+        "latin hip hop": [
+            "conscious hip hop",
+            "canadian hip hop",
+            "german hip hop"
+        ],
+        "new wave": [
+            "new romantic",
+            "indie rock",
+            "metal"
+        ],
+        "metal": [
+            "glam metal",
+            "punk",
+            "glam rock"
+        ],
+        "cloud rap": [
+            "neo soul",
+            "hoerspiel",
+            "viral pop"
+        ],
+        "turkish pop": [
+            "spanish pop",
+            "cloud rap",
+            "modern country pop"
+        ],
+        "stomp and holler": [
+            "glam rock",
+            "piano rock",
+            "country rock"
+        ],
+        "modern country pop": [
+            "glam rock",
+            "stomp and holler",
+            "glam metal"
+        ],
+        "german hip hop": [
+            "toronto rap",
+            "trap argentino",
+            "trap brasileiro"
+        ],
+        "house": [
+            "slap house",
+            "progressive electro house",
+            "toronto rap"
+        ],
+        "slap house": [
+            "boy band",
+            "progressive electro house",
+            "post-teen pop"
+        ],
+        "italian pop": [
+            "post-teen pop",
+            "boy band",
+            "spanish pop"
+        ],
+        "new romantic": [
+            "post-teen pop",
+            "boy band",
+            "synthpop"
+        ],
+        "toronto rap": [
+            "trap argentino",
+            "trap brasileiro",
+            "east coast hip hop"
+        ],
+        "trap argentino": [
+            "trap brasileiro",
+            "east coast hip hop",
+            "west coast rap"
+        ],
+        "glam metal": [
+            "glam rock",
+            "punk",
+            "garage rock"
+        ],
+        "glam rock": [
+            "piano rock",
+            "argentine rock",
+            "punk"
+        ],
+        "punk": [
+            "garage rock",
+            "ccm",
+            "argentine rock"
+        ],
+        "spanish pop": [
+            "post-teen pop",
+            "boy band",
+            "italian hip hop"
+        ],
+        "neo soul": [
+            "country rock",
+            "viral pop",
+            "hoerspiel"
+        ],
+        "hoerspiel": [
+            "adult standards",
+            "country rock",
+            "folk"
+        ],
+        "viral pop": [
+            "italian adult pop",
+            "piano rock",
+            "mpb"
+        ],
+        "piano rock": [
+            "psychedelic rock",
+            "italian adult pop",
+            "opm"
+        ],
+        "country rock": [
+            "piano rock",
+            "psychedelic rock",
+            "opm"
+        ],
+        "trap brasileiro": [
+            "afrobeats",
+            "punjabi pop",
+            "miami hip hop"
+        ],
+        "post-teen pop": [
+            "boy band",
+            "talent show",
+            "synthpop"
+        ],
+        "boy band": [
+            "talent show",
+            "synthpop",
+            "progressive electro house"
+        ],
+        "progressive electro house": [
+            "progressive house",
+            "big room",
+            "synthpop"
+        ],
+        "east coast hip hop": [
+            "west coast rap",
+            "afrobeats",
+            "miami hip hop"
+        ],
+        "west coast rap": [
+            "afrobeats",
+            "miami hip hop",
+            "trap brasileiro"
+        ],
+        "synthpop": [
+            "talent show",
+            "progressive house",
+            "swedish pop"
+        ],
+        "italian hip hop": [
+            "afrobeats",
+            "miami hip hop",
+            "west coast rap"
+        ],
+        "garage rock": [
+            "anime",
+            "metropopolis",
+            "art rock"
+        ],
+        "adult standards": [
+            "indie folk",
+            "classical",
+            "vocal jazz"
+        ],
+        "folk": [
+            "adult standards",
+            "indie folk",
+            "yacht rock"
+        ],
+        "argentine rock": [
+            "ccm",
+            "garage rock",
+            "modern country rock"
+        ],
+        "psychedelic rock": [
+            "art rock",
+            "opm",
+            "italian adult pop"
+        ],
+        "opm": [
+            "italian adult pop",
+            "art rock",
+            "indie folk"
+        ],
+        "italian adult pop": [
+            "yacht rock",
+            "art rock",
+            "mpb"
+        ],
+        "mpb": [
+            "folk",
+            "adult standards",
+            "yacht rock"
+        ],
+        "ccm": [
+            "garage rock",
+            "metropopolis",
+            "anime"
+        ],
+        "afrobeats": [
+            "miami hip hop",
+            "punjabi pop",
+            "nigerian pop"
+        ],
+        "miami hip hop": [
+            "punjabi pop",
+            "underground hip hop",
+            "rage rap"
+        ],
+        "talent show": [
+            "swedish pop",
+            "europop",
+            "german pop"
+        ],
+        "punjabi pop": [
+            "nigerian pop",
+            "puerto rican pop",
+            "underground hip hop"
+        ],
+        "progressive house": [
+            "big room",
+            "talent show",
+            "metropopolis"
+        ],
+        "big room": [
+            "europop",
+            "brostep",
+            "tropical house"
+        ],
+        "swedish pop": [
+            "german pop",
+            "modern country rock",
+            "metropopolis"
+        ],
+        "modern country rock": [
+            "metropopolis",
+            "anime",
+            "j-rock"
+        ],
+        "art rock": [
+            "chamber pop",
+            "indie folk",
+            "sleep"
+        ],
+        "metropopolis": [
+            "anime",
+            "christian music",
+            "j-rock"
+        ],
+        "anime": [
+            "j-rock",
+            "christian music",
+            "metalcore"
+        ],
+        "indie folk": [
+            "chamber pop",
+            "classical",
+            "folk-pop"
+        ],
+        "yacht rock": [
+            "indie folk",
+            "folk-pop",
+            "gen z singer-songwriter"
+        ],
+        "classical": [
+            "vocal jazz",
+            "sleep",
+            "blues rock"
+        ],
+        "vocal jazz": [
+            "mariachi",
+            "blues rock",
+            "bolero"
+        ],
+        "nigerian pop": [
+            "rap francais",
+            "desi hip hop",
+            "tropical"
+        ],
+        "underground hip hop": [
+            "nigerian pop",
+            "desi hip hop",
+            "rap francais"
+        ],
+        "rage rap": [
+            "dark trap",
+            "underground hip hop",
+            "desi hip hop"
+        ],
+        "puerto rican pop": [
+            "underground hip hop",
+            "nigerian pop",
+            "rage rap"
+        ],
+        "europop": [
+            "dark trap",
+            "sped up",
+            "brostep"
+        ],
+        "german pop": [
+            "sped up",
+            "europop",
+            "emo rap"
+        ],
+        "brostep": [
+            "dance rock",
+            "mexican rock",
+            "drift phonk"
+        ],
+        "tropical house": [
+            "dark trap",
+            "hip pop",
+            "europop"
+        ],
+        "chamber pop": [
+            "folk-pop",
+            "turkish rock",
+            "melancholia"
+        ],
+        "sleep": [
+            "chamber pop",
+            "soundtrack",
+            "metalcore"
+        ],
+        "j-rock": [
+            "metalcore",
+            "funk metal",
+            "christian music"
+        ],
+        "christian music": [
+            "grunge",
+            "funk metal",
+            "melodic metalcore"
+        ],
+        "folk-pop": [
+            "turkish rock",
+            "british invasion",
+            "melancholia"
+        ],
+        "gen z singer-songwriter": [
+            "mariachi",
+            "blues rock",
+            "folk-pop"
+        ],
+        "metalcore": [
+            "grunge",
+            "christian music",
+            "melodic metalcore"
+        ],
+        "blues rock": [
+            "mariachi",
+            "british invasion",
+            "rock-and-roll"
+        ],
+        "mariachi": [
+            "bolero",
+            "outlaw country",
+            "rock-and-roll"
+        ],
+        "bolero": [
+            "outlaw country",
+            "rock-and-roll",
+            "classic soul"
+        ],
+        "dark trap": [
+            "desi hip hop",
+            "hip pop",
+            "rap francais"
+        ],
+        "desi hip hop": [
+            "detroit hip hop",
+            "hip pop",
+            "argentine hip hop"
+        ],
+        "rap francais": [
+            "desi hip hop",
+            "tropical",
+            "detroit hip hop"
+        ],
+        "tropical": [
+            "grupera",
+            "argentine hip hop",
+            "detroit hip hop"
+        ],
+        "hip pop": [
+            "detroit hip hop",
+            "argentine hip hop",
+            "mexican hip hop"
+        ],
+        "sped up": [
+            "indie soul",
+            "detroit hip hop",
+            "emo rap"
+        ],
+        "emo rap": [
+            "pluggnb",
+            "indie soul",
+            "british soul"
+        ],
+        "soundtrack": [
+            "orchestral soundtrack",
+            "rain",
+            "white noise"
+        ],
+        "dance rock": [
+            "mexican rock",
+            "drift phonk",
+            "funk metal"
+        ],
+        "mexican rock": [
+            "funk metal",
+            "indie poptimism",
+            "drift phonk"
+        ],
+        "drift phonk": [
+            "electronica",
+            "memphis hip hop",
+            "alternative hip hop"
+        ],
+        "turkish rock": [
+            "beatlesque",
+            "brazilian gospel",
+            "melancholia"
+        ],
+        "melancholia": [
+            "progressive rock",
+            "soundtrack",
+            "beatlesque"
+        ],
+        "funk metal": [
+            "melodic metalcore",
+            "christian alternative rock",
+            "worship"
+        ],
+        "grunge": [
+            "melodic metalcore",
+            "funk metal",
+            "turkish rock"
+        ],
+        "melodic metalcore": [
+            "worship",
+            "christian alternative rock",
+            "emo"
+        ],
+        "british invasion": [
+            "beatlesque",
+            "melancholia",
+            "rock-and-roll"
+        ],
+        "rock-and-roll": [
+            "classic soul",
+            "cantautor",
+            "chanson"
+        ],
+        "outlaw country": [
+            "classic soul",
+            "rock-and-roll",
+            "cantautor"
+        ],
+        "classic soul": [
+            "cantautor",
+            "motown",
+            "chanson"
+        ],
+        "detroit hip hop": [
+            "argentine hip hop",
+            "urbano espanol",
+            "mexican hip hop"
+        ],
+        "argentine hip hop": [
+            "urbano espanol",
+            "mexican hip hop",
+            "trap triste"
+        ],
+        "grupera": [
+            "argentine hip hop",
+            "detroit hip hop",
+            "disco"
+        ],
+        "mexican hip hop": [
+            "urbano espanol",
+            "polish hip hop",
+            "trap triste"
+        ],
+        "indie soul": [
+            "pluggnb",
+            "trap triste",
+            "uk hip hop"
+        ],
+        "pluggnb": [
+            "uk hip hop",
+            "trap triste",
+            "trap boricua"
+        ],
+        "british soul": [
+            "trap triste",
+            "polish hip hop",
+            "urbano espanol"
+        ],
+        "indie poptimism": [
+            "australian pop",
+            "mandopop",
+            "christian alternative rock"
+        ],
+        "christian alternative rock": [
+            "emo",
+            "brazilian gospel",
+            "dream pop"
+        ],
+        "worship": [
+            "christian alternative rock",
+            "brazilian gospel",
+            "progressive rock"
+        ],
+        "electronica": [
+            "pixel",
+            "downtempo",
+            "trance"
+        ],
+        "memphis hip hop": [
+            "funk carioca",
+            "trap boricua",
+            "reggaeton flow"
+        ],
+        "alternative hip hop": [
+            "memphis hip hop",
+            "dirty south rap",
+            "funk carioca"
+        ],
+        "beatlesque": [
+            "brazilian gospel",
+            "progressive rock",
+            "worship"
+        ],
+        "brazilian gospel": [
+            "mandopop",
+            "progressive rock",
+            "french pop"
+        ],
+        "emo": [
+            "dream pop",
+            "neon pop punk",
+            "britpop"
+        ],
+        "progressive rock": [
+            "dream pop",
+            "white noise",
+            "emo"
+        ],
+        "orchestral soundtrack": [
+            "white noise",
+            "progressive rock",
+            "dream pop"
+        ],
+        "rain": [
+            "orchestral soundtrack",
+            "white noise",
+            "progressive rock"
+        ],
+        "white noise": [
+            "dream pop",
+            "thrash metal",
+            "old school thrash"
+        ],
+        "cantautor": [
+            "chanson",
+            "motown",
+            "classic oklahoma country"
+        ],
+        "chanson": [
+            "classic oklahoma country",
+            "movie tunes",
+            "indian instrumental"
+        ],
+        "motown": [
+            "quiet storm",
+            "pagode novo",
+            "french pop"
+        ],
+        "disco": [
+            "polish hip hop",
+            "funk",
+            "salsa"
+        ],
+        "urbano espanol": [
+            "trap triste",
+            "polish hip hop",
+            "uk hip hop"
+        ],
+        "trap triste": [
+            "polish hip hop",
+            "disco",
+            "uk hip hop"
+        ],
+        "polish hip hop": [
+            "uk hip hop",
+            "reggaeton flow",
+            "trap boricua"
+        ],
+        "uk hip hop": [
+            "reggaeton flow",
+            "trap boricua",
+            "funk carioca"
+        ],
+        "trap boricua": [
+            "funk carioca",
+            "dirty south rap",
+            "dfw rap"
+        ],
+        "dirty south rap": [
+            "trap italiana",
+            "dfw rap",
+            "pop reggaeton"
+        ],
+        "funk carioca": [
+            "dirty south rap",
+            "dfw rap",
+            "pop reggaeton"
+        ],
+        "reggaeton flow": [
+            "funk carioca",
+            "trap boricua",
+            "dirty south rap"
+        ],
+        "pixel": [
+            "downtempo"
+        ],
+        "downtempo": [],
+        "trance": [
+            "industrial metal",
+            "neo-synthpop",
+            "dutch house"
+        ],
+        "australian pop": [
+            "french pop",
+            "japanese teen pop",
+            "brazilian rock"
+        ],
+        "mandopop": [
+            "quiet storm",
+            "pop soul",
+            "baroque pop"
+        ],
+        "dream pop": [
+            "sheffield indie",
+            "symphonic rock",
+            "old school thrash"
+        ],
+        "french pop": [
+            "mandopop",
+            "quiet storm",
+            "pop soul"
+        ],
+        "classic oklahoma country": [
+            "indian instrumental",
+            "movie tunes",
+            "classic texas country"
+        ],
+        "quiet storm": [
+            "pagode",
+            "funk",
+            "pop soul"
+        ],
+        "pagode novo": [
+            "gruperas inmortales",
+            "sertanejo pop",
+            "classic texas country"
+        ],
+        "neon pop punk": [
+            "anime rock",
+            "britpop",
+            "industrial metal"
+        ],
+        "britpop": [
+            "sheffield indie",
+            "anime rock",
+            "old school thrash"
+        ],
+        "thrash metal": [
+            "sheffield indie"
+        ],
+        "old school thrash": [
+            "thrash metal",
+            "sheffield indie"
+        ],
+        "movie tunes": [
+            "baroque pop",
+            "indian instrumental",
+            "classic texas country"
+        ],
+        "indian instrumental": [
+            "classic texas country",
+            "baroque pop"
+        ],
+        "funk": [
+            "pop nacional",
+            "rap conscient",
+            "hardcore hip hop"
+        ],
+        "salsa": [
+            "funk",
+            "pagode",
+            "pop soul"
+        ],
+        "dfw rap": [
+            "pop nacional",
+            "g funk",
+            "rap conscient"
+        ],
+        "pop reggaeton": [
+            "dfw rap",
+            "pop nacional",
+            "g funk"
+        ],
+        "trap italiana": [
+            "pop nacional",
+            "dfw rap",
+            "pop reggaeton"
+        ],
+        "japanese teen pop": [
+            "funk rock",
+            "barbadian pop",
+            "australian dance"
+        ],
+        "brazilian rock": [
+            "funk rock",
+            "australian rock",
+            "latin christian"
+        ],
+        "pop soul": [
+            "pagode",
+            "funk",
+            "pop nacional"
+        ],
+        "baroque pop": [
+            "symphonic rock",
+            "lilith"
+        ],
+        "pagode": [
+            "funk",
+            "pop nacional",
+            "gruperas inmortales"
+        ],
+        "sheffield indie": [
+            "symphonic rock",
+            "modern blues rock"
+        ],
+        "symphonic rock": [
+            "southern rock",
+            "modern blues rock"
+        ],
+        "gruperas inmortales": [
+            "spanish hip hop",
+            "brazilian hip hop",
+            "dancehall"
+        ],
+        "sertanejo pop": [
+            "pop argentino",
+            "tamil pop",
+            "latin viral pop"
+        ],
+        "classic texas country": [
+            "country dawn",
+            "baroque pop",
+            "lilith"
+        ],
+        "industrial metal": [
+            "anime rock",
+            "candy pop"
+        ],
+        "neo-synthpop": [
+            "australian dance",
+            "gym phonk",
+            "dutch edm"
+        ],
+        "dutch house": [
+            "gym phonk",
+            "neo-synthpop",
+            "australian dance"
+        ],
+        "anime rock": [
+            "candy pop",
+            "australian rock"
+        ],
+        "pop nacional": [
+            "rap conscient",
+            "g funk",
+            "queens hip hop"
+        ],
+        "g funk": [
+            "queens hip hop",
+            "rap conscient",
+            "hardcore hip hop"
+        ],
+        "rap conscient": [
+            "queens hip hop",
+            "hardcore hip hop",
+            "trap queen"
+        ],
+        "hardcore hip hop": [
+            "queens hip hop",
+            "trap queen",
+            "bachata"
+        ],
+        "funk rock": [
+            "australian dance",
+            "rap rock",
+            "eurodance"
+        ],
+        "barbadian pop": [
+            "eurodance",
+            "new orleans rap",
+            "cali rap"
+        ],
+        "australian dance": [
+            "eurodance",
+            "gym phonk",
+            "dutch edm"
+        ],
+        "australian rock": [
+            "latin christian",
+            "modern blues rock"
+        ],
+        "latin christian": [
+            "sophisti-pop"
+        ],
+        "spanish hip hop": [
+            "reggae fusion",
+            "florida rap",
+            "pop venezolano"
+        ],
+        "brazilian hip hop": [
+            "spanish hip hop",
+            "florida rap",
+            "funk mtg"
+        ],
+        "dancehall": [
+            "brooklyn drill",
+            "north carolina hip hop",
+            "pop venezolano"
+        ],
+        "gym phonk": [
+            "eurodance",
+            "dutch edm",
+            "escape room"
+        ],
+        "dutch edm": [
+            "rap rock",
+            "girl group"
+        ],
+        "country dawn": [
+            "latin christian",
+            "lilith",
+            "australian rock"
+        ],
+        "lilith": [],
+        "candy pop": [
+            "rap rock",
+            "sophisti-pop"
+        ],
+        "modern blues rock": [],
+        "pop argentino": [
+            "chicago drill",
+            "girl group",
+            "escape room"
+        ],
+        "tamil pop": [
+            "urbano chileno",
+            "russian hip hop",
+            "plugg"
+        ],
+        "latin viral pop": [
+            "girl group",
+            "escape room",
+            "pop argentino"
+        ],
+        "southern rock": [
+            "modern blues rock",
+            "lilith"
+        ],
+        "queens hip hop": [
+            "trap queen",
+            "bachata",
+            "cali rap"
+        ],
+        "trap queen": [
+            "bachata",
+            "cali rap",
+            "new orleans rap"
+        ],
+        "bachata": [
+            "cali rap",
+            "new orleans rap",
+            "funk mtg"
+        ],
+        "rap rock": [],
+        "eurodance": [
+            "girl group",
+            "new orleans rap",
+            "rap rock"
+        ],
+        "new orleans rap": [
+            "reggae fusion",
+            "florida rap",
+            "pop venezolano"
+        ],
+        "cali rap": [
+            "new orleans rap",
+            "reggae fusion",
+            "florida rap"
+        ],
+        "florida rap": [
+            "funk mtg",
+            "pop venezolano",
+            "brooklyn drill"
+        ],
+        "funk mtg": [
+            "funk rj",
+            "brooklyn drill",
+            "pop venezolano"
+        ],
+        "reggae fusion": [
+            "florida rap",
+            "pop venezolano",
+            "funk mtg"
+        ],
+        "pop venezolano": [
+            "k-rap",
+            "russian hip hop",
+            "turkish hip hop"
+        ],
+        "escape room": [
+            "girl group",
+            "chicago drill",
+            "turkish trap"
+        ],
+        "brooklyn drill": [
+            "north carolina hip hop",
+            "turkish hip hop",
+            "funk rj"
+        ],
+        "north carolina hip hop": [
+            "turkish hip hop",
+            "k-rap",
+            "funk rj"
+        ],
+        "girl group": [
+            "turkish trap",
+            "polish trap",
+            "punjabi hip hop"
+        ],
+        "urbano chileno": [
+            "atl trap",
+            "punjabi hip hop",
+            "dutch hip hop"
+        ],
+        "russian hip hop": [
+            "turkish hip hop",
+            "k-rap",
+            "north carolina hip hop"
+        ],
+        "plugg": [
+            "drill",
+            "turkish hip hop",
+            "atl trap"
+        ],
+        "sophisti-pop": [],
+        "chicago drill": [
+            "polish trap",
+            "punjabi hip hop",
+            "turkish trap"
+        ],
+        "funk rj": [
+            "turkish hip hop",
+            "k-rap",
+            "atl trap"
+        ],
+        "k-rap": [
+            "atl trap",
+            "turkish trap",
+            "punjabi hip hop"
+        ],
+        "turkish hip hop": [
+            "k-rap",
+            "atl trap",
+            "punjabi hip hop"
+        ],
+        "drill": [
+            "k-rap",
+            "turkish hip hop",
+            "funk rj"
+        ],
+        "atl trap": [
+            "punjabi hip hop",
+            "dutch hip hop",
+            "turkish trap"
+        ],
+        "punjabi hip hop": [
+            "dutch hip hop",
+            "polish trap",
+            "turkish trap"
+        ],
+        "dutch hip hop": [
+            "turkish trap",
+            "polish trap",
+            "reggae"
+        ],
+        "turkish trap": [
+            "polish trap"
+        ],
+        "polish trap": [
+            "pittsburgh rap"
+        ],
+        "reggae": [
+            "pittsburgh rap"
+        ],
+        "pittsburgh rap": []
+    }
+}
