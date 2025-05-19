@@ -1,3 +1,8 @@
+// Starter code for the Force Graph based on a visual tool made by Mike Bostock
+// Copyright 2021-2024 Observable, Inc.
+// Released under the ISC license.
+// https://observablehq.com/@d3/force-directed-graph
+
 let allBFSOrderedNodes = [];
 let allAdjacencyList = {};
 let allGenreRanks = {};
