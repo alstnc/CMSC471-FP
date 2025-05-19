@@ -218,7 +218,7 @@ function ForceGraph(
       const pathString =
         displayPath.length > 0 ? displayPath.join(" → ") : d_hovered.id;
 
-      tooltip.style("opacity", 0.9).html(`
+      tooltip.classed("hidden", false).style("opacity", 1).html(`
                     <div><strong>Genre:</strong> ${d_hovered.id}</div>
                     <div><strong>Rank:</strong> ${d_hovered.rank}</div>
                     <div><strong>Path:</strong> ${pathString}</div>
@@ -226,8 +226,8 @@ function ForceGraph(
     })
     .on("mousemove", function (event) {
       tooltip
-        .style("left", event.pageX + 15 + "px")
-        .style("top", event.pageY - 10 + "px");
+        .style("left", event.pageX + "px")
+        .style("top", event.pageY + "px");
     })
     .on("mouseout", function () {
       nodeElements
@@ -251,7 +251,7 @@ function ForceGraph(
             : labelFillOpacity
         );
 
-      tooltip.style("opacity", 0);
+      tooltip.classed("hidden", true).style("opacity", 0);
     });
 
   const labelElements = zoomableGroup
