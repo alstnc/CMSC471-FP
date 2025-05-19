@@ -531,7 +531,7 @@ async function loadVisualization() {
     let timelineData = [];
     try {
       const timelineResponse = await fetch(
-        `/src/data/${currentGenre}_timeline.json`
+        `/data/${currentGenre}_timeline.json`
       );
       if (timelineResponse.ok) {
         timelineData = await timelineResponse.json();
@@ -553,7 +553,7 @@ async function loadVisualization() {
 
     // fetch artist & map data
     const [artistsResponse, usResponse] = await Promise.all([
-      fetch(`/src/data/${currentGenre}_artists.json`),
+      fetch(`/data/${currentGenre}_artists.json`),
       d3.json("https://cdn.jsdelivr.net/npm/us-atlas@3/states-10m.json"),
     ]);
 

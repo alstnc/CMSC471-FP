@@ -348,7 +348,7 @@ function ForceGraph(
 }
 
 document.addEventListener("DOMContentLoaded", () => {
-  const jsonFilePath = "data/music_genres_data(1).json";
+  const jsonFilePath = "/data/music_genres_data(1).json";
   const graphContainer = document.getElementById("force_graph");
   const visContainerParent = document.getElementById("vis-container");
   const slider = document.getElementById("nodeCountSlider");
