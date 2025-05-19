@@ -15,10 +15,12 @@
     >
       <div class="absolute inset-0 bg-black opacity-60"></div>
 
-      <div class="relative z-10 flex flex-col items-center text-center px-4">
+      <div
+        class="relative z-10 flex flex-col items-center text-center px-4 text-white"
+      >
         <h1 class="text-4xl md:text-7xl italic font-bold mb-4">SOUNDWAVES</h1>
         <p class="text-lg font-light md:text-2xl max-w-2xl mb-8">
-          A Visual History of Musical Trends
+          A Visual Exploration of Musical Trends
         </p>
       </div>
 
@@ -130,9 +132,10 @@
         id="force-graph-section"
         class="mt-8 p-6 bg-white shadow-lg rounded-lg flex flex-col min-h-screen"
       >
-        <h2 class="text-2xl font-bold mb-4 text-gray-700">
-          Force Graph of Genre Relationships
-        </h2>
+        <h1 class="text-3xl font-bold mb-4">
+          Exploring Genre Relationships: Force Graph
+        </h1>
+
         <div id="sidebar" class="mb-4">
           <div>
             <label for="nodeCountSlider" class="mr-2 font-medium"
@@ -151,7 +154,7 @@
         </div>
         <div id="vis-container">
           <div id="force_graph"></div>
-          <div id="tooltip"></div>
+          <div id="tooltip" class="hidden"></div>
         </div>
       </section>
     </div>

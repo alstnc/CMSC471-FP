@@ -38,6 +38,7 @@ function ForceGraph(
     height = 400,
     invalidation,
     rootId = "pop",
+    visContainerElement,
   } = {}
 ) {
   const N = d3.map(nodes, nodeId).map(intern);
@@ -218,16 +219,29 @@ function ForceGraph(
       const pathString =
         displayPath.length > 0 ? displayPath.join(" → ") : d_hovered.id;
 
-      tooltip.classed("hidden", false).style("opacity", 1).html(`
-                    <div><strong>Genre:</strong> ${d_hovered.id}</div>
-                    <div><strong>Rank:</strong> ${d_hovered.rank}</div>
-                    <div><strong>Path:</strong> ${pathString}</div>
-                `);
+      const visContainerRect = visContainerElement.getBoundingClientRect();
+      const x = event.clientX - visContainerRect.left + 15;
+      const y = event.clientY - visContainerRect.top - 10;
+
+      tooltip
+        .style("display", "block")
+        .style("opacity", 1)
+        .classed("hidden", false)
+        .html(
+          `
+                       <div><strong>Genre:</strong> ${d_hovered.id}</div>
+                       <div><strong>Rank:</strong> ${d_hovered.rank}</div>
+                       <div><strong>Path:</strong> ${pathString}</div>
+                   `
+        )
+        .style("left", x + "px")
+        .style("top", y + "px");
     })
     .on("mousemove", function (event) {
-      tooltip
-        .style("left", event.pageX + "px")
-        .style("top", event.pageY + "px");
+      const visContainerRect = visContainerElement.getBoundingClientRect();
+      const x = event.clientX - visContainerRect.left + 15;
+      const y = event.clientY - visContainerRect.top - 10;
+      tooltip.style("left", x + "px").style("top", y + "px");
     })
     .on("mouseout", function () {
       nodeElements
@@ -251,7 +265,10 @@ function ForceGraph(
             : labelFillOpacity
         );
 
-      tooltip.classed("hidden", true).style("opacity", 0);
+      tooltip
+        .style("display", "none")
+        .style("opacity", 0)
+        .classed("hidden", true);
     });
 
   const labelElements = zoomableGroup
@@ -415,6 +432,7 @@ document.addEventListener("DOMContentLoaded", () => {
       labelOffsetX: baseLabelOffset,
       labelOffsetY: 3,
       rootId: allBFSOrderedNodes.length > 0 ? allBFSOrderedNodes[0] : "pop",
+      visContainerElement: visContainerParent,
     };
     const svgNode = ForceGraph(graphData, graphOptions);
     graphContainer.appendChild(svgNode);
