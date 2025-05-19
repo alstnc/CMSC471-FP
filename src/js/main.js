@@ -39,6 +39,14 @@ const genreColorSchemes = {
     mapStateFill: "fill-stone-300",
     mapStateStroke: "stroke-white",
   },
+  shoegaze: {
+    bubbleFill: "fill-sky-500",
+    bubbleStroke: "stroke-sky-700",
+    primaryText: "text-sky-600",
+    secondaryText: "text-sky-700",
+    mapStateFill: "fill-stone-300",
+    mapStateStroke: "stroke-white",
+  },
 };
 
 const genreDetails = {
@@ -61,6 +69,11 @@ const genreDetails = {
     title: "The Beat of the Underground: House",
     overview:
       "House music first emerged from the underground club scene in Chicago, specifically from venues like The Warehouse, in the early 1980s. Born from the ashes of disco, early house pioneers, often from Black and LGBTQ+ communities, utilized newly affordable drum machines (like the Roland TR-808 and TR-909) and synthesizers to create a new, soulful, and relentlessly danceable sound. Its signature four-on-the-floor kick drum, off-beat hi-hats, and prominent basslines created a hypnotic groove that quickly spread beyond Chicago, laying the foundational blueprint for countless electronic dance music genres that followed worldwide.",
+  },
+  shoegaze: {
+    title: "Dreamlike Distortion: American Shoegaze",
+    overview:
+      "Shoegaze originally emerged from the UK in the late 1980s, but American bands quickly embraced and expanded upon its atmospheric soundscapes, characterized by heavy use of distortion, reverb-soaked guitars, ethereal vocals, and immersive walls of sound. While the U.S. lacked a single geographic epicenter for shoegaze, influential scenes blossomed in cities like Philadelphia, Boston, and San Francisco, where bands such as Drop Nineteens, Nothing, and Deafheaven blended dreamlike textures with introspective lyricism. Over the decades, American shoegaze has evolved, interweaving with genres like black metal, emo, and indie rock, cementing its place as a captivating chapter in alternative music.",
   },
 };
 
@@ -220,6 +233,9 @@ function drawMap(
   // zoomable elements group
   const g = svg.append("g");
 
+  // Select the tooltip element
+  const tooltip = d3.select("#timeline-tooltip");
+
   g.append("path")
     .datum(topojson.feature(us, us.objects.states))
     .attr("class", activeColorScheme.mapStateFill)
@@ -251,6 +267,23 @@ function drawMap(
       // highlight
       d3.select(this).attr("fill-opacity", 0.8).attr("stroke-width", 1.5);
 
+      // Show and populate tooltip
+      tooltip.style("opacity", 1).classed("hidden", false);
+      let metricName;
+      let metricValue;
+      if (currentBubbleMetric === "followers") {
+        metricName = "Total Followers";
+        metricValue = (metricAccessor(d) || 0).toLocaleString();
+      } else {
+        metricName = "Total Popularity";
+        metricValue = (metricAccessor(d) || 0).toLocaleString();
+      }
+      tooltip.html(
+        `<strong>${d.locationName}</strong><br>` +
+          `${metricName}: ${metricValue}<br>` +
+          `Artists (${d.artistCount}): ${d.artistNames.join(", ")}`
+      );
+
       // filter & update list
       const artistsInBubble = allFilteredArtists
         .filter((artist) => d.artistNames.includes(artist.name))
@@ -266,32 +299,25 @@ function drawMap(
       // remove highlight
       d3.select(this).attr("fill-opacity", 0.5).attr("stroke-width", 0.5);
 
+      // Hide tooltip
+      tooltip.style("opacity", 0).classed("hidden", true);
+
       // reset list
       renderArtistList(initialTop50);
     });
+
+  // Add mousemove event for tooltip positioning
+  bubbles.on("mousemove", function (event, d) {
+    tooltip
+      .style("left", event.pageX + 15 + "px")
+      .style("top", event.pageY - 10 + "px");
+  });
 
   // animate bubbles
   bubbles
     .transition()
     .duration(800)
     .attr("r", (d) => radius(metricAccessor(d)));
-
-  bubbles.append("title").text((d) => {
-    let metricName;
-    let metricValue;
-    if (currentBubbleMetric === "followers") {
-      metricName = "Total Followers";
-      metricValue = (metricAccessor(d) || 0).toLocaleString();
-    } else {
-      metricName = "Total Popularity";
-      metricValue = (metricAccessor(d) || 0).toLocaleString();
-    }
-    return (
-      `${d.locationName}\n` +
-      `${metricName}: ${metricValue}\n` +
-      `Artists (${d.artistCount}): ${d.artistNames.join(", ")}`
-    );
-  });
 
   const zoom = d3
     .zoom()

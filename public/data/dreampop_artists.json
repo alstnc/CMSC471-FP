@@ -1,0 +1,2801 @@
+[
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+    },
+    "followers": {
+      "href": null,
+      "total": 15809148
+    },
+    "genres": [
+      "dream pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1QAJqy2dA3ihHBFIHRphZj",
+    "id": "1QAJqy2dA3ihHBFIHRphZj",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb0e871e0389b9722cc12a4118",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab676161000051740e871e0389b9722cc12a4118",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f1780e871e0389b9722cc12a4118",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Cigarettes After Sex",
+    "popularity": 86,
+    "type": "artist",
+    "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj",
+    "processed_origin_name": "Texas,",
+    "musicbrainz_country": "US",
+    "coordinates": {
+      "lat": 31.2638905,
+      "lon": -98.5456116
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+    },
+    "followers": {
+      "href": null,
+      "total": 2620615
+    },
+    "genres": [
+      "dream pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/56ZTgzPBDge0OvCGgMO3OY",
+    "id": "56ZTgzPBDge0OvCGgMO3OY",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5ebb3e38a46a56a423d8f741c09",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174b3e38a46a56a423d8f741c09",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178b3e38a46a56a423d8f741c09",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Beach House",
+    "popularity": 75,
+    "type": "artist",
+    "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY",
+    "processed_origin_name": "Baltimore, Maryland,",
+    "musicbrainz_country": "US",
+    "coordinates": {
+      "lat": 39.2908816,
+      "lon": -76.610759
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+    },
+    "followers": {
+      "href": null,
+      "total": 2778939
+    },
+    "genres": [
+      "bedroom pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/2sSGPbdZJkaSE2AbcGOACx",
+    "id": "2sSGPbdZJkaSE2AbcGOACx",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174af586afa2b397f1288683a76",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178af586afa2b397f1288683a76",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "The Marías",
+    "popularity": 86,
+    "type": "artist",
+    "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx",
+    "processed_origin_name": "California,",
+    "musicbrainz_country": "US",
+    "coordinates": {
+      "lat": 36.7014631,
+      "lon": -118.755997
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+    },
+    "followers": {
+      "href": null,
+      "total": 1264917
+    },
+    "genres": [
+      "shoegaze",
+      "dream pop",
+      "post-punk"
+    ],
+    "href": "https://api.spotify.com/v1/artists/5Wabl1lPdNOeIn0SQ5A1mp",
+    "id": "5Wabl1lPdNOeIn0SQ5A1mp",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb00f01cecce8a4475c3de0998",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000517400f01cecce8a4475c3de0998",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f17800f01cecce8a4475c3de0998",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Cocteau Twins",
+    "popularity": 67,
+    "type": "artist",
+    "uri": "spotify:artist:5Wabl1lPdNOeIn0SQ5A1mp",
+    "processed_origin_name": "Grangemouth, Falkirk, Scotland",
+    "musicbrainz_country": null,
+    "coordinates": {
+      "lat": 56.0189027,
+      "lon": -3.7230303
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+    },
+    "followers": {
+      "href": null,
+      "total": 2200061
+    },
+    "genres": [
+      "bedroom pop",
+      "indie pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/3zmfs9cQwzJl575W1ZYXeT",
+    "id": "3zmfs9cQwzJl575W1ZYXeT",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5ebfd30ebd7e80dad6b2383aab0",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174fd30ebd7e80dad6b2383aab0",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178fd30ebd7e80dad6b2383aab0",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Men I Trust",
+    "popularity": 74,
+    "type": "artist",
+    "uri": "spotify:artist:3zmfs9cQwzJl575W1ZYXeT",
+    "processed_origin_name": "Québec City, Quebec, Canada",
+    "musicbrainz_country": null,
+    "coordinates": {
+      "lat": 46.8137431,
+      "lon": -71.2084061
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+    },
+    "followers": {
+      "href": null,
+      "total": 959167
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/0avMDS4HyoCEP6RqZJWpY2",
+    "id": "0avMDS4HyoCEP6RqZJWpY2",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5ebf663b756e15c1416b9a67f91",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174f663b756e15c1416b9a67f91",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178f663b756e15c1416b9a67f91",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Ethel Cain",
+    "popularity": 69,
+    "type": "artist",
+    "uri": "spotify:artist:0avMDS4HyoCEP6RqZJWpY2",
+    "processed_origin_name": "Tallahassee, Florida,",
+    "musicbrainz_country": "US",
+    "coordinates": {
+      "lat": 30.4380832,
+      "lon": -84.2809332
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
+    },
+    "followers": {
+      "href": null,
+      "total": 1653205
+    },
+    "genres": [
+      "dream pop",
+      "shoegaze",
+      "slowcore"
+    ],
+    "href": "https://api.spotify.com/v1/artists/37w38cCSGgKLdayTRjna4W",
+    "id": "37w38cCSGgKLdayTRjna4W",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/d14e353d562d68036916c64a13912772cf7df91c",
+        "height": 1000,
+        "width": 1000
+      },
+      {
+        "url": "https://i.scdn.co/image/08b9c74ae69257399f0c293b68a7745e811ae5ea",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/21d0d9bc01f2a0e5147ab4daa7aba3297b960abd",
+        "height": 200,
+        "width": 200
+      },
+      {
+        "url": "https://i.scdn.co/image/027fe626877b0c8d40d0d6082f8ee7baec738fa7",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Mazzy Star",
+    "popularity": 72,
+    "type": "artist",
+    "uri": "spotify:artist:37w38cCSGgKLdayTRjna4W",
+    "processed_origin_name": "California,",
+    "musicbrainz_country": "US",
+    "coordinates": {
+      "lat": 36.7014631,
+      "lon": -118.755997
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+    },
+    "followers": {
+      "href": null,
+      "total": 609887
+    },
+    "genres": [
+      "dream pop",
+      "shoegaze",
+      "jangle pop",
+      "indie"
+    ],
+    "href": "https://api.spotify.com/v1/artists/3kzwYV3OCB010YfXMF0Avt",
+    "id": "3kzwYV3OCB010YfXMF0Avt",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eba24052fe3c780cb8ca6e69c6",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174a24052fe3c780cb8ca6e69c6",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178a24052fe3c780cb8ca6e69c6",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Alvvays",
+    "popularity": 60,
+    "type": "artist",
+    "uri": "spotify:artist:3kzwYV3OCB010YfXMF0Avt",
+    "processed_origin_name": "Charlottetown, Prince Edward Island, Canada",
+    "musicbrainz_country": null,
+    "coordinates": {
+      "lat": 46.234953,
+      "lon": -63.132935
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+    },
+    "followers": {
+      "href": null,
+      "total": 794331
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/7MoIc5s9KXolCBH1fy9kkw",
+    "id": "7MoIc5s9KXolCBH1fy9kkw",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb679cee0110b7cc128a496431",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174679cee0110b7cc128a496431",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178679cee0110b7cc128a496431",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Japanese Breakfast",
+    "popularity": 64,
+    "type": "artist",
+    "uri": "spotify:artist:7MoIc5s9KXolCBH1fy9kkw",
+    "processed_origin_name": "Philadelphia, Pennsylvania,",
+    "musicbrainz_country": "US",
+    "coordinates": {
+      "lat": 39.9527237,
+      "lon": -75.1635262
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
+    },
+    "followers": {
+      "href": null,
+      "total": 1134813
+    },
+    "genres": [
+      "bedroom pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1AbJ2cmwK400LSvdvBL5Jc",
+    "id": "1AbJ2cmwK400LSvdvBL5Jc",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb9ef984201491d362210c467c",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab676161000051749ef984201491d362210c467c",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f1789ef984201491d362210c467c",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Strawberry Guy",
+    "popularity": 70,
+    "type": "artist",
+    "uri": "spotify:artist:1AbJ2cmwK400LSvdvBL5Jc",
+    "processed_origin_name": "Liverpool, England",
+    "musicbrainz_country": null,
+    "coordinates": {
+      "lat": 53.4071991,
+      "lon": -2.99168
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim"
+    },
+    "followers": {
+      "href": null,
+      "total": 1106055
+    },
+    "genres": [
+      "indie"
+    ],
+    "href": "https://api.spotify.com/v1/artists/77mJc3M7ZT5oOVM7gNdXim",
+    "id": "77mJc3M7ZT5oOVM7gNdXim",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb6e339cf31f00e472b1ddd1c5",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab676161000051746e339cf31f00e472b1ddd1c5",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f1786e339cf31f00e472b1ddd1c5",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Her's",
+    "popularity": 66,
+    "type": "artist",
+    "uri": "spotify:artist:77mJc3M7ZT5oOVM7gNdXim",
+    "processed_origin_name": "Vallejo",
+    "musicbrainz_country": "US",
+    "coordinates": {
+      "lat": 38.1040864,
+      "lon": -122.2566367
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+    },
+    "followers": {
+      "href": null,
+      "total": 461049
+    },
+    "genres": [
+      "bedroom pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/6ft7JnxMyZhp7N52qzHymY",
+    "id": "6ft7JnxMyZhp7N52qzHymY",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb9310cf18c564e55d8220f9d3",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab676161000051749310cf18c564e55d8220f9d3",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f1789310cf18c564e55d8220f9d3",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Vansire",
+    "popularity": 63,
+    "type": "artist",
+    "uri": "spotify:artist:6ft7JnxMyZhp7N52qzHymY",
+    "processed_origin_name": "Rochester, Minnesota,",
+    "musicbrainz_country": "US",
+    "coordinates": {
+      "lat": 44.0234387,
+      "lon": -92.4630182
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+    },
+    "followers": {
+      "href": null,
+      "total": 3194126
+    },
+    "genres": [
+      "bedroom pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/2Tglaf8nvDzwSQnpSrjLHP",
+    "id": "2Tglaf8nvDzwSQnpSrjLHP",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb35869fcd31b5d3252d636595",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000517435869fcd31b5d3252d636595",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f17835869fcd31b5d3252d636595",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Cuco",
+    "popularity": 70,
+    "type": "artist",
+    "uri": "spotify:artist:2Tglaf8nvDzwSQnpSrjLHP",
+    "processed_origin_name": "Inglewood",
+    "musicbrainz_country": "US",
+    "coordinates": {
+      "lat": 33.9562003,
+      "lon": -118.353132
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4nlqDmbzFzbNITaqjJv7D7"
+    },
+    "followers": {
+      "href": null,
+      "total": 465467
+    },
+    "genres": [
+      "dream pop",
+      "jangle pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/4nlqDmbzFzbNITaqjJv7D7",
+    "id": "4nlqDmbzFzbNITaqjJv7D7",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/d11ee55598e458475cf9b34ce3bc7ffde96aceb4",
+        "height": 596,
+        "width": 1000
+      },
+      {
+        "url": "https://i.scdn.co/image/a7890f42a032eae40da5b14da2b2c3fc520cb1c2",
+        "height": 381,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/a4e7d0ed50099e6001c123d8089f518c3bcdb5b0",
+        "height": 119,
+        "width": 200
+      },
+      {
+        "url": "https://i.scdn.co/image/e4cf383f61b07a28de8f6002e36f506d12c2cfab",
+        "height": 38,
+        "width": 64
+      }
+    ],
+    "name": "The Sundays",
+    "popularity": 65,
+    "type": "artist",
+    "uri": "spotify:artist:4nlqDmbzFzbNITaqjJv7D7",
+    "processed_origin_name": "Bristol, England",
+    "musicbrainz_country": null,
+    "coordinates": {
+      "lat": 51.4538022,
+      "lon": -2.5972985
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+    },
+    "followers": {
+      "href": null,
+      "total": 223634
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/2JFTRDi5v7JtqoouVe1z5D",
+    "id": "2JFTRDi5v7JtqoouVe1z5D",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5ebaf8de1de25f395082edc2251",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174af8de1de25f395082edc2251",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178af8de1de25f395082edc2251",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Slow Pulp",
+    "popularity": 57,
+    "type": "artist",
+    "uri": "spotify:artist:2JFTRDi5v7JtqoouVe1z5D",
+    "processed_origin_name": "Madison, Wisconsin,",
+    "musicbrainz_country": "US",
+    "coordinates": {
+      "lat": 43.074761,
+      "lon": -89.3837613
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib"
+    },
+    "followers": {
+      "href": null,
+      "total": 439699
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/0qZyvjwZauLmrobrpJmvib",
+    "id": "0qZyvjwZauLmrobrpJmvib",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb04c826847b22b97922a54556",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000517404c826847b22b97922a54556",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f17804c826847b22b97922a54556",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Dream, Ivory",
+    "popularity": 67,
+    "type": "artist",
+    "uri": "spotify:artist:0qZyvjwZauLmrobrpJmvib",
+    "processed_origin_name": "California",
+    "musicbrainz_country": null,
+    "coordinates": {
+      "lat": 36.7014631,
+      "lon": -118.755997
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB"
+    },
+    "followers": {
+      "href": null,
+      "total": 304577
+    },
+    "genres": [
+      "dream pop",
+      "shoegaze",
+      "chillwave"
+    ],
+    "href": "https://api.spotify.com/v1/artists/6NrkINd80slV25wkBu9mEB",
+    "id": "6NrkINd80slV25wkBu9mEB",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb4b9a42b4cd4c580b65162599",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab676161000051744b9a42b4cd4c580b65162599",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f1784b9a42b4cd4c580b65162599",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Wild Nothing",
+    "popularity": 47,
+    "type": "artist",
+    "uri": "spotify:artist:6NrkINd80slV25wkBu9mEB",
+    "processed_origin_name": "Blacksburg, Virginia, United States",
+    "musicbrainz_country": null,
+    "coordinates": {
+      "lat": 37.2296566,
+      "lon": -80.4136767
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H"
+    },
+    "followers": {
+      "href": null,
+      "total": 148258
+    },
+    "genres": [
+      "slowcore"
+    ],
+    "href": "https://api.spotify.com/v1/artists/04GCjO1r1hPelibCUq9S8H",
+    "id": "04GCjO1r1hPelibCUq9S8H",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb351342194cb97193ed1d4386",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174351342194cb97193ed1d4386",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178351342194cb97193ed1d4386",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Fog Lake",
+    "popularity": 52,
+    "type": "artist",
+    "uri": "spotify:artist:04GCjO1r1hPelibCUq9S8H",
+    "processed_origin_name": "Glovertown, Newfoundland, Canada",
+    "musicbrainz_country": null,
+    "coordinates": {
+      "lat": 48.6740048,
+      "lon": -54.0341421
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+    },
+    "followers": {
+      "href": null,
+      "total": 285372
+    },
+    "genres": [
+      "dream pop",
+      "psychedelic pop",
+      "psychedelic rock"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1S0vL284jxZYKtZQ2jsQ2X",
+    "id": "1S0vL284jxZYKtZQ2jsQ2X",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb492017eba5c8703f59ac36df",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174492017eba5c8703f59ac36df",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178492017eba5c8703f59ac36df",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Melody's Echo Chamber",
+    "popularity": 47,
+    "type": "artist",
+    "uri": "spotify:artist:1S0vL284jxZYKtZQ2jsQ2X",
+    "processed_origin_name": "Aix-en-Provence, Bouches-du-Rhône, France",
+    "musicbrainz_country": null,
+    "coordinates": {
+      "lat": 43.5298424,
+      "lon": 5.4474738
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
+    },
+    "followers": {
+      "href": null,
+      "total": 227603
+    },
+    "genres": [
+      "dream pop",
+      "chillwave"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1Z2KInfSmPOzAIYyiaXeti",
+    "id": "1Z2KInfSmPOzAIYyiaXeti",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb80ffcc90627f708b01a549f1",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000517480ffcc90627f708b01a549f1",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f17880ffcc90627f708b01a549f1",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Youth Lagoon",
+    "popularity": 48,
+    "type": "artist",
+    "uri": "spotify:artist:1Z2KInfSmPOzAIYyiaXeti",
+    "processed_origin_name": "San Diego",
+    "musicbrainz_country": "US",
+    "coordinates": {
+      "lat": 32.7174202,
+      "lon": -117.162772
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/34Xay0uKsALHCrn5LkrYeh"
+    },
+    "followers": {
+      "href": null,
+      "total": 84185
+    },
+    "genres": [
+      "shoegaze",
+      "dream pop",
+      "slowcore",
+      "psychedelic pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/34Xay0uKsALHCrn5LkrYeh",
+    "id": "34Xay0uKsALHCrn5LkrYeh",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb37105e564207714467a51d62",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000517437105e564207714467a51d62",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f17837105e564207714467a51d62",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Candy Claws",
+    "popularity": 40,
+    "type": "artist",
+    "uri": "spotify:artist:34Xay0uKsALHCrn5LkrYeh",
+    "processed_origin_name": "Colorado,",
+    "musicbrainz_country": "US",
+    "coordinates": {
+      "lat": 38.7251776,
+      "lon": -105.607716
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv"
+    },
+    "followers": {
+      "href": null,
+      "total": 325229
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/7ApzfFN0BmeeVJPsQBReRv",
+    "id": "7ApzfFN0BmeeVJPsQBReRv",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb5b088b2a41db1e421c3cc103",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab676161000051745b088b2a41db1e421c3cc103",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f1785b088b2a41db1e421c3cc103",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Elita",
+    "popularity": 57,
+    "type": "artist",
+    "uri": "spotify:artist:7ApzfFN0BmeeVJPsQBReRv",
+    "processed_origin_name": "Canada",
+    "musicbrainz_country": "CA",
+    "coordinates": {
+      "lat": 61.0666922,
+      "lon": -107.991707
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4jSYHcSo85heWskYvAULio"
+    },
+    "followers": {
+      "href": null,
+      "total": 170131
+    },
+    "genres": [
+      "slowcore",
+      "dream pop",
+      "shoegaze"
+    ],
+    "href": "https://api.spotify.com/v1/artists/4jSYHcSo85heWskYvAULio",
+    "id": "4jSYHcSo85heWskYvAULio",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/9dfc9f36dcfc526ce1d6f62c18f22f4999c93606",
+        "height": 666,
+        "width": 1000
+      },
+      {
+        "url": "https://i.scdn.co/image/579588d002787a3e058c6cd420ffa0a57457023f",
+        "height": 426,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/7060e61f23a1b4e73b76816d0703ad0050f85530",
+        "height": 133,
+        "width": 200
+      },
+      {
+        "url": "https://i.scdn.co/image/74de42efb2353856a303ee74f0d5ee3a51c516a8",
+        "height": 43,
+        "width": 64
+      }
+    ],
+    "name": "Mojave 3",
+    "popularity": 48,
+    "type": "artist",
+    "uri": "spotify:artist:4jSYHcSo85heWskYvAULio",
+    "processed_origin_name": "United Kingdom",
+    "musicbrainz_country": null,
+    "coordinates": {
+      "lat": 54.7023545,
+      "lon": -3.2765753
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+    },
+    "followers": {
+      "href": null,
+      "total": 344769
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/7o96HO2zrujyATtVsqGhh3",
+    "id": "7o96HO2zrujyATtVsqGhh3",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb92ba49f3331d4d700e29e08c",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000517492ba49f3331d4d700e29e08c",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f17892ba49f3331d4d700e29e08c",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Goth Babe",
+    "popularity": 61,
+    "type": "artist",
+    "uri": "spotify:artist:7o96HO2zrujyATtVsqGhh3",
+    "processed_origin_name": "Chattanooga, Tennessee",
+    "musicbrainz_country": null,
+    "coordinates": {
+      "lat": 35.0457219,
+      "lon": -85.3094883
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
+    },
+    "followers": {
+      "href": null,
+      "total": 350205
+    },
+    "genres": [
+      "dream pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/4zKYrXs8iN4AeHmO8ZxNqp",
+    "id": "4zKYrXs8iN4AeHmO8ZxNqp",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5ebfb2743eafabeee1bd1fe6e90",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174fb2743eafabeee1bd1fe6e90",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178fb2743eafabeee1bd1fe6e90",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Still Corners",
+    "popularity": 60,
+    "type": "artist",
+    "uri": "spotify:artist:4zKYrXs8iN4AeHmO8ZxNqp",
+    "processed_origin_name": "London",
+    "musicbrainz_country": null,
+    "coordinates": {
+      "lat": 51.5074456,
+      "lon": -0.1277653
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4Pt1HZtuJwrQB8l0ES5iTX"
+    },
+    "followers": {
+      "href": null,
+      "total": 111862
+    },
+    "genres": [
+      "dream pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/4Pt1HZtuJwrQB8l0ES5iTX",
+    "id": "4Pt1HZtuJwrQB8l0ES5iTX",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/225e52730b148d91fbf3627b25353857a2144807",
+        "height": 1388,
+        "width": 1000
+      },
+      {
+        "url": "https://i.scdn.co/image/8286b19ae2b57a7000584b4847ea18559660fe27",
+        "height": 889,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/13ebe61657f40274988a921ee26500e09eac95c4",
+        "height": 278,
+        "width": 200
+      },
+      {
+        "url": "https://i.scdn.co/image/bc97c94c0ee6dc28d9acf499c44f5cb3d411e0e5",
+        "height": 89,
+        "width": 64
+      }
+    ],
+    "name": "Julee Cruise",
+    "popularity": 47,
+    "type": "artist",
+    "uri": "spotify:artist:4Pt1HZtuJwrQB8l0ES5iTX",
+    "processed_origin_name": "Creston, Iowa,",
+    "musicbrainz_country": "US",
+    "coordinates": {
+      "lat": 41.0585878,
+      "lon": -94.361397
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
+    },
+    "followers": {
+      "href": null,
+      "total": 134724
+    },
+    "genres": [
+      "dream pop",
+      "indie pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1wmiQ6ytATiGnJs6uFluKO",
+    "id": "1wmiQ6ytATiGnJs6uFluKO",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb9736ca3874a6ca7a13a59826",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab676161000051749736ca3874a6ca7a13a59826",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f1789736ca3874a6ca7a13a59826",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Jay Som",
+    "popularity": 43,
+    "type": "artist",
+    "uri": "spotify:artist:1wmiQ6ytATiGnJs6uFluKO",
+    "processed_origin_name": "Walnut Creek, California U.S",
+    "musicbrainz_country": null,
+    "coordinates": null
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX"
+    },
+    "followers": {
+      "href": null,
+      "total": 97508
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/53k2km8u55n9YaJJB7scjX",
+    "id": "53k2km8u55n9YaJJB7scjX",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb3ad0d5dee4dcef9a37cfd15b",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab676161000051743ad0d5dee4dcef9a37cfd15b",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f1783ad0d5dee4dcef9a37cfd15b",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "carwash",
+    "popularity": 48,
+    "type": "artist",
+    "uri": "spotify:artist:53k2km8u55n9YaJJB7scjX",
+    "processed_origin_name": null,
+    "musicbrainz_country": null,
+    "coordinates": null
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
+    },
+    "followers": {
+      "href": null,
+      "total": 65868
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/2eMb96S1ZJ1YQ7FhWAzWJL",
+    "id": "2eMb96S1ZJ1YQ7FhWAzWJL",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb7633eabe27819a1e55d07efb",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab676161000051747633eabe27819a1e55d07efb",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f1787633eabe27819a1e55d07efb",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Pearly Drops",
+    "popularity": 48,
+    "type": "artist",
+    "uri": "spotify:artist:2eMb96S1ZJ1YQ7FhWAzWJL",
+    "processed_origin_name": "Helsinki",
+    "musicbrainz_country": "FI",
+    "coordinates": {
+      "lat": 60.1674881,
+      "lon": 24.9427473
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
+    },
+    "followers": {
+      "href": null,
+      "total": 118835
+    },
+    "genres": [
+      "dream pop",
+      "chillwave"
+    ],
+    "href": "https://api.spotify.com/v1/artists/5ZW7HlSuZz8ng2X21cXbdP",
+    "id": "5ZW7HlSuZz8ng2X21cXbdP",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5ebcc515f7bf9e4cc7b2b0f7138",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174cc515f7bf9e4cc7b2b0f7138",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178cc515f7bf9e4cc7b2b0f7138",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Widowspeak",
+    "popularity": 44,
+    "type": "artist",
+    "uri": "spotify:artist:5ZW7HlSuZz8ng2X21cXbdP",
+    "processed_origin_name": "New York, United States",
+    "musicbrainz_country": null,
+    "coordinates": {
+      "lat": 40.7127281,
+      "lon": -74.0060152
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/16lg8y62dC3J6ok1pNAbFJ"
+    },
+    "followers": {
+      "href": null,
+      "total": 134942
+    },
+    "genres": [
+      "dream pop",
+      "chillwave"
+    ],
+    "href": "https://api.spotify.com/v1/artists/16lg8y62dC3J6ok1pNAbFJ",
+    "id": "16lg8y62dC3J6ok1pNAbFJ",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb64391e29b03ad819dfeb453d",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000517464391e29b03ad819dfeb453d",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f17864391e29b03ad819dfeb453d",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Craft Spells",
+    "popularity": 40,
+    "type": "artist",
+    "uri": "spotify:artist:16lg8y62dC3J6ok1pNAbFJ",
+    "processed_origin_name": "Lathrop, California, USA",
+    "musicbrainz_country": null,
+    "coordinates": {
+      "lat": 37.8227046,
+      "lon": -121.27661
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB"
+    },
+    "followers": {
+      "href": null,
+      "total": 111554
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/7EEefVBNBS3ckwouEl62oB",
+    "id": "7EEefVBNBS3ckwouEl62oB",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5ebfbf3ca06565e0a33447315f5",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174fbf3ca06565e0a33447315f5",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178fbf3ca06565e0a33447315f5",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Lunar Vacation",
+    "popularity": 47,
+    "type": "artist",
+    "uri": "spotify:artist:7EEefVBNBS3ckwouEl62oB",
+    "processed_origin_name": "Atlanta, Georgia",
+    "musicbrainz_country": null,
+    "coordinates": {
+      "lat": 33.7489924,
+      "lon": -84.3902644
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+    },
+    "followers": {
+      "href": null,
+      "total": 73326
+    },
+    "genres": [
+      "dream pop",
+      "shoegaze"
+    ],
+    "href": "https://api.spotify.com/v1/artists/3d7MqowTZa2bC5iy1JXLLt",
+    "id": "3d7MqowTZa2bC5iy1JXLLt",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb18ddb08f29289df123e45f2b",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000517418ddb08f29289df123e45f2b",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f17818ddb08f29289df123e45f2b",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Hatchie",
+    "popularity": 37,
+    "type": "artist",
+    "uri": "spotify:artist:3d7MqowTZa2bC5iy1JXLLt",
+    "processed_origin_name": "Brisbane, Queensland, Australia",
+    "musicbrainz_country": null,
+    "coordinates": {
+      "lat": -27.4689682,
+      "lon": 153.0234991
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+    },
+    "followers": {
+      "href": null,
+      "total": 144969
+    },
+    "genres": [
+      "dream pop",
+      "surf rock"
+    ],
+    "href": "https://api.spotify.com/v1/artists/4ptJIIR10UVlGjN0VntFaK",
+    "id": "4ptJIIR10UVlGjN0VntFaK",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eba438665db7e2fe99a6e484f9",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174a438665db7e2fe99a6e484f9",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178a438665db7e2fe99a6e484f9",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Day Wave",
+    "popularity": 48,
+    "type": "artist",
+    "uri": "spotify:artist:4ptJIIR10UVlGjN0VntFaK",
+    "processed_origin_name": "Oakland, California,",
+    "musicbrainz_country": "US",
+    "coordinates": {
+      "lat": 37.8044557,
+      "lon": -122.271356
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz"
+    },
+    "followers": {
+      "href": null,
+      "total": 106644
+    },
+    "genres": [
+      "chillwave"
+    ],
+    "href": "https://api.spotify.com/v1/artists/5ltJZgIW3OkY5WvuzX5MYz",
+    "id": "5ltJZgIW3OkY5WvuzX5MYz",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb74923276da27e7fceb67d9ef",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000517474923276da27e7fceb67d9ef",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f17874923276da27e7fceb67d9ef",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Mr Twin Sister",
+    "popularity": 43,
+    "type": "artist",
+    "uri": "spotify:artist:5ltJZgIW3OkY5WvuzX5MYz",
+    "processed_origin_name": "New York,",
+    "musicbrainz_country": "US",
+    "coordinates": {
+      "lat": 40.7127281,
+      "lon": -74.0060152
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+    },
+    "followers": {
+      "href": null,
+      "total": 146947
+    },
+    "genres": [
+      "dream pop",
+      "shoegaze"
+    ],
+    "href": "https://api.spotify.com/v1/artists/2awB7Ol181cocZcLLNBBAh",
+    "id": "2awB7Ol181cocZcLLNBBAh",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb2f1cf7bedd227926b39216b5",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab676161000051742f1cf7bedd227926b39216b5",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f1782f1cf7bedd227926b39216b5",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Fazerdaze",
+    "popularity": 42,
+    "type": "artist",
+    "uri": "spotify:artist:2awB7Ol181cocZcLLNBBAh",
+    "processed_origin_name": "age 31 – 32) Wellington, New Zealand",
+    "musicbrainz_country": null,
+    "coordinates": null
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ"
+    },
+    "followers": {
+      "href": null,
+      "total": 71788
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/41y1iPh0WqB7tyGdzyeinZ",
+    "id": "41y1iPh0WqB7tyGdzyeinZ",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb70357eb7fbee74ebff7a4987",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000517470357eb7fbee74ebff7a4987",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f17870357eb7fbee74ebff7a4987",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Blue Hawaii",
+    "popularity": 44,
+    "type": "artist",
+    "uri": "spotify:artist:41y1iPh0WqB7tyGdzyeinZ",
+    "processed_origin_name": "Montréal",
+    "musicbrainz_country": "CA",
+    "coordinates": {
+      "lat": 45.5031824,
+      "lon": -73.5698065
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7s2GHSP1ToELf5MUqzgRqV"
+    },
+    "followers": {
+      "href": null,
+      "total": 87194
+    },
+    "genres": [
+      "dream pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/7s2GHSP1ToELf5MUqzgRqV",
+    "id": "7s2GHSP1ToELf5MUqzgRqV",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb726f61262819cf675858a5f8",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174726f61262819cf675858a5f8",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178726f61262819cf675858a5f8",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Cemeteries",
+    "popularity": 45,
+    "type": "artist",
+    "uri": "spotify:artist:7s2GHSP1ToELf5MUqzgRqV",
+    "processed_origin_name": "Buffalo",
+    "musicbrainz_country": "US",
+    "coordinates": {
+      "lat": 42.8867166,
+      "lon": -78.8783922
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr"
+    },
+    "followers": {
+      "href": null,
+      "total": 101688
+    },
+    "genres": [
+      "dream pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1nEGjL7aMVdNQzsfQPKdGr",
+    "id": "1nEGjL7aMVdNQzsfQPKdGr",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5ebbb97f13d5d5d60cf642d88bb",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174bb97f13d5d5d60cf642d88bb",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178bb97f13d5d5d60cf642d88bb",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Hazel English",
+    "popularity": 44,
+    "type": "artist",
+    "uri": "spotify:artist:1nEGjL7aMVdNQzsfQPKdGr",
+    "processed_origin_name": "Sydney, Australia",
+    "musicbrainz_country": null,
+    "coordinates": {
+      "lat": -33.8698439,
+      "lon": 151.2082848
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
+    },
+    "followers": {
+      "href": null,
+      "total": 165717
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/4q2k0Txoo06ZQ41MWnQMza",
+    "id": "4q2k0Txoo06ZQ41MWnQMza",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb09aa1ab992ba89611942e44b",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000517409aa1ab992ba89611942e44b",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f17809aa1ab992ba89611942e44b",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Solya",
+    "popularity": 52,
+    "type": "artist",
+    "uri": "spotify:artist:4q2k0Txoo06ZQ41MWnQMza",
+    "processed_origin_name": "Texas",
+    "musicbrainz_country": "US",
+    "coordinates": {
+      "lat": 31.2638905,
+      "lon": -98.5456116
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3FIsBWNLmqLvTQnhJLAWUJ"
+    },
+    "followers": {
+      "href": null,
+      "total": 92585
+    },
+    "genres": [
+      "art pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/3FIsBWNLmqLvTQnhJLAWUJ",
+    "id": "3FIsBWNLmqLvTQnhJLAWUJ",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5ebff6ac0028956852c37bfc38e",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174ff6ac0028956852c37bfc38e",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178ff6ac0028956852c37bfc38e",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Ex:Re",
+    "popularity": 38,
+    "type": "artist",
+    "uri": "spotify:artist:3FIsBWNLmqLvTQnhJLAWUJ",
+    "processed_origin_name": "England",
+    "musicbrainz_country": null,
+    "coordinates": {
+      "lat": 52.5310214,
+      "lon": -1.2649062
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+    },
+    "followers": {
+      "href": null,
+      "total": 60925
+    },
+    "genres": [
+      "bedroom pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/3diDUq8QMCCtx8a4Jy42aO",
+    "id": "3diDUq8QMCCtx8a4Jy42aO",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5ebc4ee27d4262635b082669771",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174c4ee27d4262635b082669771",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178c4ee27d4262635b082669771",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Hana Vu",
+    "popularity": 43,
+    "type": "artist",
+    "uri": "spotify:artist:3diDUq8QMCCtx8a4Jy42aO",
+    "processed_origin_name": "California, United States",
+    "musicbrainz_country": null,
+    "coordinates": {
+      "lat": 36.7014631,
+      "lon": -118.755997
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/58QP6z41dSgPjoiJkIjCcL"
+    },
+    "followers": {
+      "href": null,
+      "total": 65559
+    },
+    "genres": [
+      "dream pop",
+      "shoegaze",
+      "chillwave",
+      "cold wave"
+    ],
+    "href": "https://api.spotify.com/v1/artists/58QP6z41dSgPjoiJkIjCcL",
+    "id": "58QP6z41dSgPjoiJkIjCcL",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6772690000c46cca89e7b7f15e28ceac260ef5",
+        "height": 1000,
+        "width": 1000
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6772690000dd22ca89e7b7f15e28ceac260ef5",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6772690000bac3ca89e7b7f15e28ceac260ef5",
+        "height": 200,
+        "width": 200
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67726900008f74ca89e7b7f15e28ceac260ef5",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Blouse",
+    "popularity": 34,
+    "type": "artist",
+    "uri": "spotify:artist:58QP6z41dSgPjoiJkIjCcL",
+    "processed_origin_name": "Portland",
+    "musicbrainz_country": "US",
+    "coordinates": {
+      "lat": 45.5202471,
+      "lon": -122.674194
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/3kbxSeLvtQJkPCCh3ESKoe"
+    },
+    "followers": {
+      "href": null,
+      "total": 23154
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/3kbxSeLvtQJkPCCh3ESKoe",
+    "id": "3kbxSeLvtQJkPCCh3ESKoe",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5ebd13b7dc87180c5f90be06ae5",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174d13b7dc87180c5f90be06ae5",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178d13b7dc87180c5f90be06ae5",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Video Days",
+    "popularity": 47,
+    "type": "artist",
+    "uri": "spotify:artist:3kbxSeLvtQJkPCCh3ESKoe",
+    "processed_origin_name": "Boston",
+    "musicbrainz_country": "US",
+    "coordinates": {
+      "lat": 42.3554334,
+      "lon": -71.060511
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5rGnc6zmQSjWGJ8KEAvGFq"
+    },
+    "followers": {
+      "href": null,
+      "total": 77305
+    },
+    "genres": [
+      "psychedelic pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/5rGnc6zmQSjWGJ8KEAvGFq",
+    "id": "5rGnc6zmQSjWGJ8KEAvGFq",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5ebb35260d92dcfcc546d97fb88",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174b35260d92dcfcc546d97fb88",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178b35260d92dcfcc546d97fb88",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Sunbeam Sound Machine",
+    "popularity": 38,
+    "type": "artist",
+    "uri": "spotify:artist:5rGnc6zmQSjWGJ8KEAvGFq",
+    "processed_origin_name": "Melbourne, Australia",
+    "musicbrainz_country": null,
+    "coordinates": {
+      "lat": -37.8142454,
+      "lon": 144.9631732
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj"
+    },
+    "followers": {
+      "href": null,
+      "total": 78980
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/0flVPOQPuTboUwEtzPk6vj",
+    "id": "0flVPOQPuTboUwEtzPk6vj",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb821d1bb9123c14b0800915fa",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174821d1bb9123c14b0800915fa",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178821d1bb9123c14b0800915fa",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Say Lou Lou",
+    "popularity": 36,
+    "type": "artist",
+    "uri": "spotify:artist:0flVPOQPuTboUwEtzPk6vj",
+    "processed_origin_name": "Australia",
+    "musicbrainz_country": "AU",
+    "coordinates": {
+      "lat": -24.7761086,
+      "lon": 134.755
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
+    },
+    "followers": {
+      "href": null,
+      "total": 65331
+    },
+    "genres": [
+      "shoegaze",
+      "dream pop",
+      "post-punk"
+    ],
+    "href": "https://api.spotify.com/v1/artists/4Cx5LnF4WNJIn9SSqyeq9C",
+    "id": "4Cx5LnF4WNJIn9SSqyeq9C",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb857146bfcb6e23d118c7762c",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174857146bfcb6e23d118c7762c",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178857146bfcb6e23d118c7762c",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "bdrmm",
+    "popularity": 40,
+    "type": "artist",
+    "uri": "spotify:artist:4Cx5LnF4WNJIn9SSqyeq9C",
+    "processed_origin_name": "Kingston upon Hull, England",
+    "musicbrainz_country": null,
+    "coordinates": {
+      "lat": 53.7435722,
+      "lon": -0.3394758
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+    },
+    "followers": {
+      "href": null,
+      "total": 362203
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/7EkzQPP0cgt2qCnXUg6PHj",
+    "id": "7EkzQPP0cgt2qCnXUg6PHj",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb9182fb400dfac09b8b49c2d4",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab676161000051749182fb400dfac09b8b49c2d4",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f1789182fb400dfac09b8b49c2d4",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Ghostly Kisses",
+    "popularity": 50,
+    "type": "artist",
+    "uri": "spotify:artist:7EkzQPP0cgt2qCnXUg6PHj",
+    "processed_origin_name": "Québec",
+    "musicbrainz_country": "CA",
+    "coordinates": {
+      "lat": 52.4760892,
+      "lon": -71.8258668
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+    },
+    "followers": {
+      "href": null,
+      "total": 65437
+    },
+    "genres": [
+      "dream pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/1pHO6SCEw9tuRx0IVMFL0g",
+    "id": "1pHO6SCEw9tuRx0IVMFL0g",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5ebb702e0a69be7eeb0b17d6c54",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174b702e0a69be7eeb0b17d6c54",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178b702e0a69be7eeb0b17d6c54",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Barrie",
+    "popularity": 44,
+    "type": "artist",
+    "uri": "spotify:artist:1pHO6SCEw9tuRx0IVMFL0g",
+    "processed_origin_name": "Brooklyn",
+    "musicbrainz_country": "US",
+    "coordinates": {
+      "lat": 40.6526006,
+      "lon": -73.9497211
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2URzewPhxn6Si52NkbYxIQ"
+    },
+    "followers": {
+      "href": null,
+      "total": 34642
+    },
+    "genres": [
+      "shoegaze",
+      "slowcore"
+    ],
+    "href": "https://api.spotify.com/v1/artists/2URzewPhxn6Si52NkbYxIQ",
+    "id": "2URzewPhxn6Si52NkbYxIQ",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb394ab364b142eefc43c54012",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174394ab364b142eefc43c54012",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178394ab364b142eefc43c54012",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Computerwife",
+    "popularity": 34,
+    "type": "artist",
+    "uri": "spotify:artist:2URzewPhxn6Si52NkbYxIQ",
+    "processed_origin_name": null,
+    "musicbrainz_country": null,
+    "coordinates": null
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+    },
+    "followers": {
+      "href": null,
+      "total": 411690
+    },
+    "genres": [
+      "mexican indie",
+      "latin indie"
+    ],
+    "href": "https://api.spotify.com/v1/artists/0UTzLuwz9RvFOCnwAZjUxn",
+    "id": "0UTzLuwz9RvFOCnwAZjUxn",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb42aabcbbecc11dedca23c651",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000517442aabcbbecc11dedca23c651",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f17842aabcbbecc11dedca23c651",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Bratty",
+    "popularity": 59,
+    "type": "artist",
+    "uri": "spotify:artist:0UTzLuwz9RvFOCnwAZjUxn",
+    "processed_origin_name": "Culiacán",
+    "musicbrainz_country": "MX",
+    "coordinates": {
+      "lat": 24.7978965,
+      "lon": -107.393395
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
+    },
+    "followers": {
+      "href": null,
+      "total": 59265
+    },
+    "genres": [
+      "alternative r&b"
+    ],
+    "href": "https://api.spotify.com/v1/artists/7zxS4o4zmwxJNe5UvC2Fx5",
+    "id": "7zxS4o4zmwxJNe5UvC2Fx5",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb971fc6a5c72188cacc7c56cc",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174971fc6a5c72188cacc7c56cc",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178971fc6a5c72188cacc7c56cc",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Cruza",
+    "popularity": 51,
+    "type": "artist",
+    "uri": "spotify:artist:7zxS4o4zmwxJNe5UvC2Fx5",
+    "processed_origin_name": null,
+    "musicbrainz_country": null,
+    "coordinates": null
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj"
+    },
+    "followers": {
+      "href": null,
+      "total": 37652
+    },
+    "genres": [
+      "shoegaze"
+    ],
+    "href": "https://api.spotify.com/v1/artists/2bTjArGDYivNxnYFH5jUcj",
+    "id": "2bTjArGDYivNxnYFH5jUcj",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb3a708ade959f4ecc3fd01b2b",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab676161000051743a708ade959f4ecc3fd01b2b",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f1783a708ade959f4ecc3fd01b2b",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Glitterer",
+    "popularity": 35,
+    "type": "artist",
+    "uri": "spotify:artist:2bTjArGDYivNxnYFH5jUcj",
+    "processed_origin_name": "United States",
+    "musicbrainz_country": null,
+    "coordinates": {
+      "lat": 39.7837304,
+      "lon": -100.445882
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+    },
+    "followers": {
+      "href": null,
+      "total": 176666
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/6yXBFHhojjdwKoop55NsHf",
+    "id": "6yXBFHhojjdwKoop55NsHf",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb5a4af697597a9e76b2c406d3",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab676161000051745a4af697597a9e76b2c406d3",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f1785a4af697597a9e76b2c406d3",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Mild Orange",
+    "popularity": 46,
+    "type": "artist",
+    "uri": "spotify:artist:6yXBFHhojjdwKoop55NsHf",
+    "processed_origin_name": "Dunedin, Otago, N.Z",
+    "musicbrainz_country": null,
+    "coordinates": {
+      "lat": -45.849908,
+      "lon": 170.5095622
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0aoBUiGI5wrK7DOWJAzAKe"
+    },
+    "followers": {
+      "href": null,
+      "total": 39799
+    },
+    "genres": [
+      "hyperpop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/0aoBUiGI5wrK7DOWJAzAKe",
+    "id": "0aoBUiGI5wrK7DOWJAzAKe",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb4dcf0a24f53d4b81bab3c8fd",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab676161000051744dcf0a24f53d4b81bab3c8fd",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f1784dcf0a24f53d4b81bab3c8fd",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Planet 1999",
+    "popularity": 31,
+    "type": "artist",
+    "uri": "spotify:artist:0aoBUiGI5wrK7DOWJAzAKe",
+    "processed_origin_name": "London, England",
+    "musicbrainz_country": null,
+    "coordinates": {
+      "lat": 51.5074456,
+      "lon": -0.1277653
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4LMQqMZYbFJgvxBOzshZVL"
+    },
+    "followers": {
+      "href": null,
+      "total": 24276
+    },
+    "genres": [
+      "dream pop",
+      "shoegaze",
+      "slowcore"
+    ],
+    "href": "https://api.spotify.com/v1/artists/4LMQqMZYbFJgvxBOzshZVL",
+    "id": "4LMQqMZYbFJgvxBOzshZVL",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb75947b1098c16efc85d70222",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000517475947b1098c16efc85d70222",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f17875947b1098c16efc85d70222",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "His Name Is Alive",
+    "popularity": 29,
+    "type": "artist",
+    "uri": "spotify:artist:4LMQqMZYbFJgvxBOzshZVL",
+    "processed_origin_name": "Livonia, Michigan,",
+    "musicbrainz_country": "US",
+    "coordinates": {
+      "lat": 42.36837,
+      "lon": -83.3527097
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/4dNroGlRof09LISfalgMJb"
+    },
+    "followers": {
+      "href": null,
+      "total": 285
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/4dNroGlRof09LISfalgMJb",
+    "id": "4dNroGlRof09LISfalgMJb",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2737c09ddd4970ab87ce12e48f4",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e027c09ddd4970ab87ce12e48f4",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048517c09ddd4970ab87ce12e48f4",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Twin Sister",
+    "popularity": 0,
+    "type": "artist",
+    "uri": "spotify:artist:4dNroGlRof09LISfalgMJb",
+    "processed_origin_name": "Portland",
+    "musicbrainz_country": "US",
+    "coordinates": {
+      "lat": 45.5202471,
+      "lon": -122.674194
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4"
+    },
+    "followers": {
+      "href": null,
+      "total": 44000
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/1cXVTtkpqSXVhyD32f9MS4",
+    "id": "1cXVTtkpqSXVhyD32f9MS4",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/914e226b9c70863eb70580ed181a1373993fc467",
+        "height": 1500,
+        "width": 1000
+      },
+      {
+        "url": "https://i.scdn.co/image/0f3bfb4b4094d9290c6195e8ad01252dc1b4eef6",
+        "height": 960,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/1560a6ab5f0a921e18afcb7116b67cb2daf1a1f2",
+        "height": 300,
+        "width": 200
+      },
+      {
+        "url": "https://i.scdn.co/image/baa4b4a52f7345832d6047878c1187fde9b35d3a",
+        "height": 96,
+        "width": 64
+      }
+    ],
+    "name": "High Highs",
+    "popularity": 39,
+    "type": "artist",
+    "uri": "spotify:artist:1cXVTtkpqSXVhyD32f9MS4",
+    "processed_origin_name": "Sydney, Australia",
+    "musicbrainz_country": null,
+    "coordinates": {
+      "lat": -33.8698439,
+      "lon": 151.2082848
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0T1n7Qbe4vwYIu42mB6qXe"
+    },
+    "followers": {
+      "href": null,
+      "total": 29729
+    },
+    "genres": [
+      "dream pop",
+      "chillwave",
+      "shoegaze"
+    ],
+    "href": "https://api.spotify.com/v1/artists/0T1n7Qbe4vwYIu42mB6qXe",
+    "id": "0T1n7Qbe4vwYIu42mB6qXe",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb093121549fc3e41dc25f0e41",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174093121549fc3e41dc25f0e41",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178093121549fc3e41dc25f0e41",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Memoryhouse",
+    "popularity": 23,
+    "type": "artist",
+    "uri": "spotify:artist:0T1n7Qbe4vwYIu42mB6qXe",
+    "processed_origin_name": "Toronto, Ontario, Canada",
+    "musicbrainz_country": null,
+    "coordinates": {
+      "lat": 43.6534817,
+      "lon": -79.3839347
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa"
+    },
+    "followers": {
+      "href": null,
+      "total": 32496
+    },
+    "genres": [
+      "slowcore",
+      "shoegaze",
+      "dream pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/5vjIHa1u3TnOlDvVDR9qQa",
+    "id": "5vjIHa1u3TnOlDvVDR9qQa",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5ebe32d1df516290f09a761b0d8",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174e32d1df516290f09a761b0d8",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178e32d1df516290f09a761b0d8",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Midwife",
+    "popularity": 35,
+    "type": "artist",
+    "uri": "spotify:artist:5vjIHa1u3TnOlDvVDR9qQa",
+    "processed_origin_name": "United States",
+    "musicbrainz_country": "US",
+    "coordinates": {
+      "lat": 39.7837304,
+      "lon": -100.445882
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/5SOsxafkLy6a7mUyPp0ETK"
+    },
+    "followers": {
+      "href": null,
+      "total": 62801
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/5SOsxafkLy6a7mUyPp0ETK",
+    "id": "5SOsxafkLy6a7mUyPp0ETK",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb0d57eb85e47504bd6a2d5c0d",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab676161000051740d57eb85e47504bd6a2d5c0d",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f1780d57eb85e47504bd6a2d5c0d",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Unloved",
+    "popularity": 41,
+    "type": "artist",
+    "uri": "spotify:artist:5SOsxafkLy6a7mUyPp0ETK",
+    "processed_origin_name": "Los Angeles",
+    "musicbrainz_country": "US",
+    "coordinates": {
+      "lat": 34.0536909,
+      "lon": -118.242766
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/0l5fDpqfSweuzhaAtWa76A"
+    },
+    "followers": {
+      "href": null,
+      "total": 30288
+    },
+    "genres": [
+      "chillwave",
+      "dream pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/0l5fDpqfSweuzhaAtWa76A",
+    "id": "0l5fDpqfSweuzhaAtWa76A",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5ebb20ec4f6e0c75a048b0e6a41",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174b20ec4f6e0c75a048b0e6a41",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178b20ec4f6e0c75a048b0e6a41",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Porcelain Raft",
+    "popularity": 29,
+    "type": "artist",
+    "uri": "spotify:artist:0l5fDpqfSweuzhaAtWa76A",
+    "processed_origin_name": "Rome, Italy",
+    "musicbrainz_country": null,
+    "coordinates": {
+      "lat": 41.8933203,
+      "lon": 12.4829321
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/05DG9WOML9BsHwUS5HCcRa"
+    },
+    "followers": {
+      "href": null,
+      "total": 18725
+    },
+    "genres": [
+      "slowcore",
+      "dream pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/05DG9WOML9BsHwUS5HCcRa",
+    "id": "05DG9WOML9BsHwUS5HCcRa",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb4abc6ac89039be4cd5b55b33",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab676161000051744abc6ac89039be4cd5b55b33",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f1784abc6ac89039be4cd5b55b33",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Trespassers William",
+    "popularity": 32,
+    "type": "artist",
+    "uri": "spotify:artist:05DG9WOML9BsHwUS5HCcRa",
+    "processed_origin_name": "California,",
+    "musicbrainz_country": "US",
+    "coordinates": {
+      "lat": 36.7014631,
+      "lon": -118.755997
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm"
+    },
+    "followers": {
+      "href": null,
+      "total": 139649
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/7qhWa7UI1QNZNDnzYwAYZm",
+    "id": "7qhWa7UI1QNZNDnzYwAYZm",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5ebdcdbae6758aae304fa522c99",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174dcdbae6758aae304fa522c99",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178dcdbae6758aae304fa522c99",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Vallis Alps",
+    "popularity": 47,
+    "type": "artist",
+    "uri": "spotify:artist:7qhWa7UI1QNZNDnzYwAYZm",
+    "processed_origin_name": "Canberra, Australia Seattle, Washington, United States",
+    "musicbrainz_country": null,
+    "coordinates": null
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/44mVqYPHmFgrDJxv6CWrOo"
+    },
+    "followers": {
+      "href": null,
+      "total": 35159
+    },
+    "genres": [
+      "dream pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/44mVqYPHmFgrDJxv6CWrOo",
+    "id": "44mVqYPHmFgrDJxv6CWrOo",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb45d536f672605ec812ced55e",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000517445d536f672605ec812ced55e",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f17845d536f672605ec812ced55e",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Frankie Rose",
+    "popularity": 27,
+    "type": "artist",
+    "uri": "spotify:artist:44mVqYPHmFgrDJxv6CWrOo",
+    "processed_origin_name": "United States",
+    "musicbrainz_country": "US",
+    "coordinates": {
+      "lat": 39.7837304,
+      "lon": -100.445882
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/6TnZQyc6gSnomokLLI8mya"
+    },
+    "followers": {
+      "href": null,
+      "total": 25500
+    },
+    "genres": [
+      "shoegaze",
+      "dream pop"
+    ],
+    "href": "https://api.spotify.com/v1/artists/6TnZQyc6gSnomokLLI8mya",
+    "id": "6TnZQyc6gSnomokLLI8mya",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5ebe2f74b22a2562ac8b07a7776",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174e2f74b22a2562ac8b07a7776",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178e2f74b22a2562ac8b07a7776",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "The Bilinda Butchers",
+    "popularity": 37,
+    "type": "artist",
+    "uri": "spotify:artist:6TnZQyc6gSnomokLLI8mya",
+    "processed_origin_name": "Concord",
+    "musicbrainz_country": "US",
+    "coordinates": {
+      "lat": 43.207178,
+      "lon": -71.537476
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7pww8JMPMj1SxUfJ8wN5Kt"
+    },
+    "followers": {
+      "href": null,
+      "total": 52786
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/7pww8JMPMj1SxUfJ8wN5Kt",
+    "id": "7pww8JMPMj1SxUfJ8wN5Kt",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5ebfd5eaf1400013d8a124afe13",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174fd5eaf1400013d8a124afe13",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178fd5eaf1400013d8a124afe13",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "HAERTS",
+    "popularity": 34,
+    "type": "artist",
+    "uri": "spotify:artist:7pww8JMPMj1SxUfJ8wN5Kt",
+    "processed_origin_name": "München",
+    "musicbrainz_country": "US",
+    "coordinates": {
+      "lat": 48.1371079,
+      "lon": 11.5753822
+    }
+  },
+  {
+    "external_urls": {
+      "spotify": "https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng"
+    },
+    "followers": {
+      "href": null,
+      "total": 36604
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/artists/7sx3r4lMo079vO7lIi0fng",
+    "id": "7sx3r4lMo079vO7lIi0fng",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab6761610000e5ebcf72415b9705cb4cd79236b9",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616100005174cf72415b9705cb4cd79236b9",
+        "height": 320,
+        "width": 320
+      },
+      {
+        "url": "https://i.scdn.co/image/ab6761610000f178cf72415b9705cb4cd79236b9",
+        "height": 160,
+        "width": 160
+      }
+    ],
+    "name": "Lanterns on the Lake",
+    "popularity": 32,
+    "type": "artist",
+    "uri": "spotify:artist:7sx3r4lMo079vO7lIi0fng",
+    "processed_origin_name": "Newcastle upon Tyne, England",
+    "musicbrainz_country": null,
+    "coordinates": {
+      "lat": 54.9738474,
+      "lon": -1.6131572
+    }
+  }
+]

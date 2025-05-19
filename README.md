@@ -122,3 +122,5 @@ After acquiring the initial artist list, the following multi-step pipeline is us
 ### Acknowledgements
 
 - TopoJSON: Used to display geographic data for the map visualizations on continental US map
+- Tailwind CSS: CSS framework used for styling
+- Vite: Employed to optimize development server and production builds
