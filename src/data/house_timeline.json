@@ -1,0 +1,332 @@
+[
+  {
+    "year": 1960,
+    "count": 0,
+    "percentage": 0
+  },
+  {
+    "year": 1961,
+    "count": 0,
+    "percentage": 0
+  },
+  {
+    "year": 1962,
+    "count": 0,
+    "percentage": 0
+  },
+  {
+    "year": 1963,
+    "count": 0,
+    "percentage": 0
+  },
+  {
+    "year": 1964,
+    "count": 0,
+    "percentage": 0
+  },
+  {
+    "year": 1965,
+    "count": 0,
+    "percentage": 0
+  },
+  {
+    "year": 1966,
+    "count": 0,
+    "percentage": 0
+  },
+  {
+    "year": 1967,
+    "count": 0,
+    "percentage": 0
+  },
+  {
+    "year": 1968,
+    "count": 0,
+    "percentage": 0
+  },
+  {
+    "year": 1969,
+    "count": 0,
+    "percentage": 0
+  },
+  {
+    "year": 1970,
+    "count": 0,
+    "percentage": 0
+  },
+  {
+    "year": 1971,
+    "count": 0,
+    "percentage": 0
+  },
+  {
+    "year": 1972,
+    "count": 0,
+    "percentage": 0
+  },
+  {
+    "year": 1973,
+    "count": 0,
+    "percentage": 0
+  },
+  {
+    "year": 1974,
+    "count": 0,
+    "percentage": 0
+  },
+  {
+    "year": 1975,
+    "count": 0,
+    "percentage": 0
+  },
+  {
+    "year": 1976,
+    "count": 0,
+    "percentage": 0
+  },
+  {
+    "year": 1977,
+    "count": 0,
+    "percentage": 0
+  },
+  {
+    "year": 1978,
+    "count": 0,
+    "percentage": 0
+  },
+  {
+    "year": 1979,
+    "count": 0,
+    "percentage": 0
+  },
+  {
+    "year": 1980,
+    "count": 0,
+    "percentage": 0
+  },
+  {
+    "year": 1981,
+    "count": 0,
+    "percentage": 0
+  },
+  {
+    "year": 1982,
+    "count": 1,
+    "percentage": 0.0057
+  },
+  {
+    "year": 1983,
+    "count": 2,
+    "percentage": 0.0115
+  },
+  {
+    "year": 1984,
+    "count": 13,
+    "percentage": 0.0745
+  },
+  {
+    "year": 1985,
+    "count": 47,
+    "percentage": 0.2652
+  },
+  {
+    "year": 1986,
+    "count": 161,
+    "percentage": 0.8826
+  },
+  {
+    "year": 1987,
+    "count": 262,
+    "percentage": 1.3602
+  },
+  {
+    "year": 1988,
+    "count": 464,
+    "percentage": 2.3112
+  },
+  {
+    "year": 1989,
+    "count": 666,
+    "percentage": 3.195
+  },
+  {
+    "year": 1990,
+    "count": 829,
+    "percentage": 3.7227
+  },
+  {
+    "year": 1991,
+    "count": 895,
+    "percentage": 3.7219
+  },
+  {
+    "year": 1992,
+    "count": 1070,
+    "percentage": 4.0396
+  },
+  {
+    "year": 1993,
+    "count": 1058,
+    "percentage": 3.6751
+  },
+  {
+    "year": 1994,
+    "count": 1105,
+    "percentage": 3.3968
+  },
+  {
+    "year": 1995,
+    "count": 1254,
+    "percentage": 3.5218
+  },
+  {
+    "year": 1996,
+    "count": 1331,
+    "percentage": 3.6696
+  },
+  {
+    "year": 1997,
+    "count": 1412,
+    "percentage": 3.8861
+  },
+  {
+    "year": 1998,
+    "count": 1373,
+    "percentage": 3.7387
+  },
+  {
+    "year": 1999,
+    "count": 1294,
+    "percentage": 3.3438
+  },
+  {
+    "year": 2000,
+    "count": 1290,
+    "percentage": 3.3122
+  },
+  {
+    "year": 2001,
+    "count": 1370,
+    "percentage": 3.4513
+  },
+  {
+    "year": 2002,
+    "count": 1415,
+    "percentage": 3.4774
+  },
+  {
+    "year": 2003,
+    "count": 1246,
+    "percentage": 2.8417
+  },
+  {
+    "year": 2004,
+    "count": 1195,
+    "percentage": 2.5832
+  },
+  {
+    "year": 2005,
+    "count": 1313,
+    "percentage": 2.6854
+  },
+  {
+    "year": 2006,
+    "count": 1457,
+    "percentage": 2.8109
+  },
+  {
+    "year": 2007,
+    "count": 1630,
+    "percentage": 3.012
+  },
+  {
+    "year": 2008,
+    "count": 1973,
+    "percentage": 3.4188
+  },
+  {
+    "year": 2009,
+    "count": 2520,
+    "percentage": 4.064
+  },
+  {
+    "year": 2010,
+    "count": 3065,
+    "percentage": 4.666
+  },
+  {
+    "year": 2011,
+    "count": 3667,
+    "percentage": 5.1718
+  },
+  {
+    "year": 2012,
+    "count": 4373,
+    "percentage": 5.8076
+  },
+  {
+    "year": 2013,
+    "count": 4815,
+    "percentage": 6.3148
+  },
+  {
+    "year": 2014,
+    "count": 4725,
+    "percentage": 6.2179
+  },
+  {
+    "year": 2015,
+    "count": 5066,
+    "percentage": 6.4419
+  },
+  {
+    "year": 2016,
+    "count": 4814,
+    "percentage": 5.7413
+  },
+  {
+    "year": 2017,
+    "count": 5029,
+    "percentage": 5.5715
+  },
+  {
+    "year": 2018,
+    "count": 5662,
+    "percentage": 5.6974
+  },
+  {
+    "year": 2019,
+    "count": 5764,
+    "percentage": 5.287
+  },
+  {
+    "year": 2020,
+    "count": 7807,
+    "percentage": 5.9812
+  },
+  {
+    "year": 2021,
+    "count": 7961,
+    "percentage": 6.494
+  },
+  {
+    "year": 2022,
+    "count": 8500,
+    "percentage": 6.9686
+  },
+  {
+    "year": 2023,
+    "count": 7786,
+    "percentage": 6.3802
+  },
+  {
+    "year": 2024,
+    "count": 7302,
+    "percentage": 6.616
+  },
+  {
+    "year": 2025,
+    "count": 2051,
+    "percentage": 6.5373
+  }
+]
